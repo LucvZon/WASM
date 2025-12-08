@@ -1,0 +1,45 @@
+Title:
+Surveillance for arboviruses in free ranging dead birds in the Netherlands, 2016-2022
+
+Content Overview:
+Information on date and location of sampling, birds species and molecular testing results for Usutu virus (USUV)
+
+Source:
+One Health virology and Influenza groups,Viroscience, Erasmus MC, Rotterdam, the Netherlands
+Dutch Wildlife Health Centre (DWHC), Utrecht University, Utrecht, the Netherlands
+
+For methods, refer to "Emergence and Dynamics of Usutu and West Nile Viruses in the Netherlands, 2016-2022" (Münger et al., 2025).
+
+Time Frame:
+2016-08-04 to 2022-12-10
+
+Area:
+European Netherlands
+
+
+Fields:
+"ID": Unique identifier for each tested sample, each bird is represented by a single sample
+"applicant": name of insitution/system that sent samples for testing to Erasmus MC
+"DeathOrSampleDate": This field ensures that each bird has a single associated date. Depending on the data source and availability, it may represent the date of death, the date the bird was found, or the date of sampling.
+"DateInfo": Specifies the context of the date recorded in "DeathOrSampleDate." It can take one of three values: "DateDeath" (date of death), "DateFound" (date the bird was found), or "DateSampling" (date the bird was sampled).
+"English": birdspecies name in English
+"Dutch": birdspecies name in Dutch
+"Latin": bird species name in Latin
+"family": taxonomical classification of bird species at family level
+"order": taxonomical classification of bird species at order level
+"location": a general name indicating death location
+"province": Province of death location
+"Lat": latitude coordinate (in decimal degrees) of the death location, using the WGS84 coordinate system. 
+	These coordinates were registered at the location of death and have been rounded to two decimal places to ensure data anonymization.
+"Long": longitude coordinate (in decimal degrees) of the death location, using the WGS84 coordinate system. 
+	These coordinates were registered at the location of death and have been rounded to two decimal places to ensure data anonymization.
+"BirdUSUV": "1" indicates the bird tested positive for Usutu virus by RT-PCR and "0" that it tested negative
+"BirdTestedWNV": "TRUE" indicates the bird was tested for West-Nile virus by RT-PCR, "FALSE" that it was not tested 
+	(remark: unlike for Usutu virus, not all of these birds were tested fro West Nile virus, and no confirmed West Nile virus RT-PCR positives have been detected)
+
+
+Data Format:
+CSV
+
+Last updated: 
+2025-02-11 

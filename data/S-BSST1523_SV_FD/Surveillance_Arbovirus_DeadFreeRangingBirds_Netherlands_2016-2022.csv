@@ -1,0 +1,1181 @@
+Row,INSDC Sequence accession,ID,applicant,DeathOrSampleDate,DateInfo,English,Dutch,Latin,family,order,location,province,Lat,Long,BirdUSUV,BirdTestedWNV
+1,,AS20190898,DWHC,04-08-2016,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Utrecht,Utrecht,52.11,4.99,0,TRUE
+2,,AS201600054,DWHC,08-08-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.14,5.01,0,FALSE
+3,,AS201600028,DWHC,27-08-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Epe,Gelderland,52.29,5.91,0,FALSE
+4,,AS201600031,DWHC,30-08-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Veghel,Brabant,51.62,5.54,0,FALSE
+5,MN122145,AS201600034,DWHC,30-08-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gennep,Limburg,51.7,5.97,1,FALSE
+6,MN122146,AS201600036,DWHC,03-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Andelst,Gelderland,51.9,5.73,1,FALSE
+7,,AS201600039,DWHC,04-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heerenveen,Friesland,52.94,5.94,0,FALSE
+8,MN122147,AS201600042,DWHC,05-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Venlo,Limburg,51.36,6.13,1,FALSE
+9,MN122148,AS201600045,DWHC,06-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lierop,Brabant,51.42,5.67,1,FALSE
+10,MN122151,AS201600057,DWHC,07-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,"St. agatha, Cuijk",Brabant,51.71,5.91,1,FALSE
+11,MN122149,AS201600048,DWHC,07-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lierop,Brabant,51.42,5.66,1,FALSE
+12,MN122150,AS201600051,DWHC,09-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ottersum,Limburg,51.69,6.01,1,FALSE
+13,MN122152,AS201600060,DWHC,11-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zevenaar,Gelderland,51.93,6.08,1,FALSE
+14,MN122153,AS201600062,DWHC,10-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Andelst,Gelderland,51.9,5.73,1,FALSE
+15,,AS201600075,DWHC,14-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wageningen,Gelderland,51.98,5.66,1,FALSE
+16,,AS201600085,DWHC,18-09-2016,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Bilthoven,Utrecht,52.12,5.18,0,FALSE
+17,MN122154,AS201600089,DWHC,19-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Vlijmen,Brabant,51.69,5.23,1,FALSE
+18,,AS201600092,DWHC,19-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Amsterdam,N-Holland,52.35,4.9,0,FALSE
+19,MN122155,AS201600095,DWHC,20-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Klarenbeek,Gelderland,52.19,6.08,1,FALSE
+20,MN122156,AS201600098,DWHC,19-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Uden,Brabant,51.66,5.64,1,FALSE
+21,MN122157,AS201600101,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Beek en donk,Brabant,51.54,5.63,1,FALSE
+22,MN122158,AS201600104,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heino,Overijssel,52.45,6.26,1,FALSE
+23,MN122159,AS201600107,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wernhout,Brabant,51.44,4.65,1,FALSE
+24,MN122160,AS201600110,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Reek,Brabant,51.74,5.67,1,FALSE
+25,,AS201600112,DWHC,21-09-2016,DateFound,Common Kingfisher,Ijsvogel,Alcedo atthis,Alcedinidae,Coraciiformes,Holten,Overijssel,52.27,6.47,1,FALSE
+26,MN122161,AS201600115,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Houten,Utrecht,52.03,5.18,1,FALSE
+27,MN122162,AS201600118,DWHC,22-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,De bilt,Utrecht,52.09,5.19,1,FALSE
+28,MN122163,AS201600121,DWHC,22-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.98,1,FALSE
+29,,AS201600124,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Westervoort,Gelderland,51.96,5.97,1,FALSE
+30,MN122165,AS201600127,DWHC,22-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Devexer,Overijssel,52.26,6.21,1,FALSE
+31,,AS201600130,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nieuwkoop,Z-Holland,52.16,4.82,0,FALSE
+32,MN122166,AS201600133,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Overdinkel,Overijssel,52.27,6.99,1,FALSE
+33,MN122167,AS201600136,DWHC,22-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Arnhem,Gelderland,51.98,5.97,1,FALSE
+34,,AS201600139,DWHC,21-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rhenen,Utrecht,51.96,5.58,0,FALSE
+35,,AS201600145,DWHC,22-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gersloot,Friesland,53.02,5.95,1,FALSE
+36,MN122168,AS201600148,DWHC,23-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nieuwegein,Utrecht,52.04,5.07,1,FALSE
+37,,AS201600259,DWHC,26-09-2016,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Bronckhorst,Gelderland,51.98,6.39,0,FALSE
+38,MN122177,AS201600253,DWHC,26-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Landgraaf,Limburg,50.89,6.02,1,FALSE
+39,MN122181,AS201600277,DWHC,26-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,De Ronde Venen,Utrecht,52.27,4.97,1,FALSE
+40,MN122174,AS201600241,DWHC,26-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Midden drexhe,Drenthe,52.81,6.51,1,FALSE
+41,MN122175,AS201600244,DWHC,26-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zutphen,Gelderland,52.14,6.22,1,FALSE
+42,MN122180,AS201600274,DWHC,26-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Streek de liemers,Gelderland,51.95,5.97,1,FALSE
+43,,AS201600262,DWHC,25-09-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Meppel,Drenthe,52.69,6.19,0,FALSE
+44,,AS201600215,DWHC,26-09-2016,DateFound,Common Kingfisher,Ijsvogel,Alcedo atthis,Alcedinidae,Coraciiformes,Venlo,Limburg,51.35,6.13,0,FALSE
+45,,AS201600224,DWHC,28-09-2016,DateFound,Eurasian Jay,Gaai,Garrulus glandarius,Corvidae,Passeriformes,Breda,Brabant,51.57,4.78,1,FALSE
+46,MN122172,AS201600221,DWHC,28-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.4,5.28,1,FALSE
+47,,AS201600182,DWHC,28-09-2016,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Leiden,Z-Holland,52.17,4.5,0,FALSE
+48,,AS201600256,DWHC,29-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Harderwijk,Overijssel,52.33,5.6,1,FALSE
+49,,AS201600250,DWHC,29-09-2016,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Gouda,Z-Holland,52.01,4.7,0,FALSE
+50,,AS201600212,DWHC,29-09-2016,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+51,MN122179,AS201600268,DWHC,29-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nederlek,Z-Holland,51.9,4.68,1,FALSE
+52,MN122176,AS201600247,DWHC,29-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Terneuzen,Zeeland,51.28,3.94,1,FALSE
+53,MN122178,AS201600265,DWHC,29-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Enschede,Overijssel,52.21,6.91,1,FALSE
+54,MN122173,AS201600227,DWHC,29-09-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hilversum,N-Holland,52.21,5.16,1,FALSE
+55,,AS201600232,DWHC,03-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gemert-Bakel,Brabant,51.58,5.71,0,FALSE
+56,,AS201600229,DWHC,03-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Brummen,Gelderland,52.09,6.16,0,FALSE
+57,,AS201600235,DWHC,04-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Pijnacker-Nootdorp,Z-Holland,52.03,4.44,0,FALSE
+58,,AS201600206,DWHC,02-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Borsele,Zeeland,51.47,3.82,0,FALSE
+59,MN122171,AS201600203,DWHC,04-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lelystad,Flevoland,52.54,5.45,1,FALSE
+60,,AS201600185,DWHC,04-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Den helder,N-Holland,52.94,4.77,0,FALSE
+61,,AS201600194,DWHC,05-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Amstelveen,N-Holland,52.32,4.87,0,FALSE
+62,,AS201600191,DWHC,05-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Jelsum,Friesland,53.23,5.79,1,FALSE
+63,,AS201600188,DWHC,04-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Wunseradiel,Friesland,53.12,5.44,0,FALSE
+64,,AS201600238,DWHC,05-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Bunnik,Utrecht,52.07,5.19,0,FALSE
+65,MN122169,AS201600173,DWHC,06-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Doetinchem,Gelderland,51.96,6.3,1,FALSE
+66,,AS201600176,DWHC,06-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Haarlem,N-Holland,52.41,4.65,0,FALSE
+67,,AS201600218,DWHC,10-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bernheze,Brabant,51.74,5.52,0,FALSE
+68,MN122170,AS201600197,DWHC,09-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Reimerswaal,Zeeland,51.41,4.18,1,FALSE
+69,,AS201600200,DWHC,09-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Littenseradiel,Friesland,53.1,5.62,0,FALSE
+70,,AS201600304,DWHC,12-10-2016,DateFound,Common Kingfisher,Ijsvogel,Alcedo atthis,Alcedinidae,Coraciiformes,Veldhoven,Brabant,51.43,5.42,0,FALSE
+71,,AS201600307,DWHC,13-10-2016,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Weesp,N-Holland,52.29,5.1,0,FALSE
+72,,AS201600310,DWHC,13-10-2016,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Velp,Gelderland,52.03,6.01,0,FALSE
+73,,AS201600313,DWHC,17-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Houten,Utrecht,52.04,5.16,0,FALSE
+74,,AS201600316,DWHC,18-10-2016,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Gouda,Z-Holland,52.02,4.71,0,FALSE
+75,,AS201600319,DWHC,22-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Laren,N-Holland,52.25,5.22,0,FALSE
+76,,AS201600322,DWHC,22-10-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Laren,N-Holland,52.25,5.22,0,FALSE
+77,,AS201600325,DWHC,24-10-2016,DateFound,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Rucphen,Brabant,51.52,4.61,0,FALSE
+78,,AS201600328,DWHC,27-10-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Loppersum,Groningen,53.32,6.7,0,FALSE
+79,,AS201600336,DWHC,07-11-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dongeradeel,Friesland,53.4,6.07,0,TRUE
+80,,AS201600339,DWHC,13-11-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Culemborg,Gelderland,51.95,5.22,0,FALSE
+81,,AS201600342,DWHC,21-11-2016,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Daxumadiel,Friesland,53.24,6,0,FALSE
+82,,AS201600345,DWHC,28-11-2016,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Den haag,N-Holland,52.06,4.23,0,FALSE
+83,,AS201700003,DWHC,04-01-2017,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Utrecht,Utrecht,52.13,5.14,0,FALSE
+84,,AS201700006,DWHC,08-02-2017,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Utrecht,Utrecht,52.12,5.12,0,FALSE
+85,,AS201700009,DWHC,08-02-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Overloon,Brabant,51.57,5.95,0,FALSE
+86,,AS201700015,DWHC,27-02-2017,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Utrecht,Utrecht,52.08,5.17,0,FALSE
+87,,AS201700018,DWHC,14-03-2017,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Ryptsjerk,Friesland,53.22,5.92,0,FALSE
+88,,AS201700021,DWHC,22-03-2017,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Zuidwolde,Groningen,53.21,6.63,0,FALSE
+89,,AS20201762,DWHC,18-11-2020,DateFound,Domestic Canary,Kanarie,Serinus canaria domestica,Carduelinae,Passeriformes,Leiden,Z-Holland,52.16,4.49,0,TRUE
+90,MN122188,AS201700024,DWHC,04-04-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.49,5.47,1,FALSE
+91,,AS201700055,DWHC,07-05-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Roden,Drenthe,53.14,6.41,0,FALSE
+92,,AS201700057,DWHC,23-05-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Giethoorn,Overijssel,52.76,6.09,0,FALSE
+93,,AS201700058,DWHC,12-06-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lobith,Gelderland,51.86,6.12,0,TRUE
+94,,AS201700059,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+95,,AS201700060,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+96,,AS201700061,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+97,,AS201700062,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+98,,AS201700063,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+99,,AS201700064,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+100,,AS201700065,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+101,,AS201700066,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+102,,AS201700067,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+103,,AS201700068,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+104,,AS201700069,DWHC,18-06-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Den haag,Z-Holland,52.03,4.18,0,TRUE
+105,,AS201700070,DWHC,18-06-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Monster,Z-Holland,52.03,4.18,0,FALSE
+106,,AS201700071,DWHC,18-06-2017,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Den haag,Z-Holland,52.03,4.18,0,FALSE
+107,,AS201700073,DWHC,21-06-2017,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Arnhem,Gelderland,51.94,5.9,0,FALSE
+108,MN122189,AS201700077,DWHC,03-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Best,Brabant,51.51,5.4,1,FALSE
+109,MN122191,AS201700084,DWHC,04-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bunnik,Utrecht,52.06,5.2,1,FALSE
+110,MN122190,AS201700080,DWHC,05-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bilthoven,Utrecht,52.14,5.22,1,FALSE
+111,,AS201700083,DWHC,05-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Munstergeleen,Limburg,50.97,5.86,0,FALSE
+112,MN122192,AS201700086,DWHC,11-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Best,Brabant,51.51,5.4,1,FALSE
+113,MN122193,AS201700087,DWHC,11-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zutphen,Gelderland,52.12,6.2,1,FALSE
+114,MN122194,AS201700090,DWHC,13-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Doetinchem,Gelderland,51.96,6.28,1,FALSE
+115,MN122195,AS201700096,DWHC,14-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rosmalen,Brabant,51.71,5.37,1,FALSE
+116,MN122205,AS201700152,DWHC,17-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ijsselstein,Utrecht,52.03,5.03,1,FALSE
+117,MN122196,AS201700103,DWHC,19-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gelmonde,Brabant,51.62,5.36,1,FALSE
+118,MN122197,AS201700106,DWHC,25-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Soest,Utrecht,52.18,5.3,1,FALSE
+119,MN122198,AS201700109,DWHC,25-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bennekom,Gelderland,52.01,5.68,1,FALSE
+120,MN122199,AS201700112,DWHC,27-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Enschede,Overijssel,52.23,6.89,1,FALSE
+121,,AS201700115,DWHC,27-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Schiedam,Z-Holland,51.9,4.39,0,FALSE
+122,MN122200,AS201700118,DWHC,30-07-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Grenspad,N-Holland,52.31,5.14,1,FALSE
+123,MN122201,AS201700121,DWHC,01-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Koekange,Drenthe,52.72,6.36,1,FALSE
+124,MN122202,AS201700124,DWHC,01-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Enschede,Overijssel,52.22,6.84,1,FALSE
+125,MN122203,AS201700127,DWHC,03-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Huizen,N-Holland,52.3,5.25,1,FALSE
+126,,AS201700130,DWHC,03-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lelystad,Flevoland,52.52,5.49,1,FALSE
+127,,AS201700133,DWHC,07-08-2017,DateFound,Great Cormorant,Aalscholver,Phalacrocorax carbo,Phalacrocoracidae,Suliformes,Zandvoort,N-Holland,52.38,4.53,0,FALSE
+128,,AS201700201,DWHC,07-08-2017,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Sudwest-Fryslan,Friesland,53.07,5.53,0,FALSE
+129,,AS201700136,DWHC,10-08-2017,DateFound,Great Cormorant,Aalscholver,Phalacrocorax carbo,Phalacrocoracidae,Suliformes,Zandvoort,N-Holland,52.38,4.53,0,FALSE
+130,MN122206,AS201700155,DWHC,08-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.39,5.23,1,FALSE
+131,,AS201700139,DWHC,09-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nietap,Drenthe,53.16,6.41,0,FALSE
+132,,AS201700158,DWHC,14-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bergen op Zoom,Brabant,51.53,4.29,1,FALSE
+133,,AS201700161,DWHC,15-08-2017,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Kerkrade,Limburg,50.87,6.05,0,FALSE
+134,,AS201700164,DWHC,15-08-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Arnhem,Gelderland,51.97,5.9,0,FALSE
+135,,AS201700195,DWHC,13-08-2017,DateFound,Lesser Black-backed Gull,Kleine Mantelmeeuw,Larus fuscus,Laridae,Charadriiformes,Velsen,N-Holland,52.46,4.6,0,FALSE
+136,,AS201700180,DWHC,14-08-2017,DateFound,Lesser Black-backed Gull,Kleine Mantelmeeuw,Larus fuscus,Laridae,Charadriiformes,Velsen,N-Holland,52.46,4.59,0,FALSE
+137,MN122207,AS201700167,DWHC,24-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.37,5.25,1,FALSE
+138,MN122208,AS201700170,DWHC,24-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.34,5.22,1,FALSE
+139,,AS201700183,DWHC,29-08-2017,DateFound,Eurasian Jay,Gaai,Garrulus glandarius,Corvidae,Passeriformes,Kerkrade,Limburg,50.87,6.05,1,FALSE
+140,,AS201700259,DWHC,05-09-2017,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Ouderkerk,N-Holland,51.97,4.65,0,FALSE
+141,,AS201700192,DWHC,25-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.63,0,FALSE
+142,MN122209,AS201700174,DWHC,30-08-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.12,5.07,1,FALSE
+143,MN122211,AS201700186,DWHC,12-09-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zoeterwoude,Z-Holland,52.12,4.5,1,FALSE
+144,MN122212,AS201700189,DWHC,13-09-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eext,Drenthe,53.04,6.75,1,FALSE
+145,MN122210,AS201700177,DWHC,14-09-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Epe,Gelderland,52.37,5.98,1,FALSE
+146,,AS201700258,DWHC,18-09-2017,DateFound,Eurasian Jay,Gaai,Garrulus glandarius,Corvidae,Passeriformes,Tilburg,Brabant,51.56,5.08,1,FALSE
+147,,AS201700257,DWHC,19-09-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Alkmaar,N-Holland,52.63,4.75,0,FALSE
+148,MN122213,AS201700248,DWHC,19-09-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hardinxveld-Giessendam,Z-Holland,51.82,4.83,1,FALSE
+149,,AS201700284,DWHC,19-09-2017,DateFound,Eurasian Sparrowhawk,Sperwer,Accipiter nisus,Accipitridae,Accipitriformes,S'-gravendeel,Z-Holland,51.77,4.6,0,FALSE
+150,MN122214,AS201700254,DWHC,21-09-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hilversum,N-Holland,52.37,4.89,1,FALSE
+151,,AS201700249,DWHC,26-09-2017,DateFound,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Buren,Gelderland,51.94,5.5,0,FALSE
+152,,AS201700261,DWHC,04-10-2017,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Koggenland,N-Holland,52.68,4.98,0,FALSE
+153,,AS201700262,DWHC,04-10-2017,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Koggenland,N-Holland,52.68,4.98,0,FALSE
+154,,AS201700263,DWHC,04-10-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Houtmaat Hengelo,Gelderland,52.28,6.79,0,FALSE
+155,,AS201700266,DWHC,16-10-2017,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Haarlemmermeer,N-Holland,52.3,4.65,0,FALSE
+156,,AS201700269,DWHC,17-10-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bernheze,Brabant,51.69,5.58,1,FALSE
+157,,AS201700273,DWHC,17-10-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bernheze,Brabant,51.69,5.58,1,FALSE
+158,,AS201800001,DWHC,17-10-2017,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Haarlem,N-Holland,52.31,4.68,0,FALSE
+159,,AS201800002,DWHC,16-10-2017,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Haarlem,N-Holland,52.39,4.64,0,FALSE
+160,,AS201800003,DWHC,19-10-2017,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Utrecht,Utrecht,52.1,5.16,0,FALSE
+161,,AS201700287,DWHC,23-10-2017,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Gooise meren,N-Holland,52.28,5.15,0,FALSE
+162,,AS201700291,DWHC,25-10-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heemstede,N-Holland,52.35,4.61,0,FALSE
+163,,AS201700295,DWHC,31-10-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lelystad,Flevoland,52.51,5.5,0,FALSE
+164,,AS201700298,DWHC,31-10-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lelystad,Flevoland,52.51,5.5,0,FALSE
+165,,AS201700302,DWHC,31-10-2017,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Lelystad,Flevoland,52.51,5.5,0,FALSE
+166,,AS201700306,DWHC,07-11-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Den haag,Z-Holland,52.08,4.27,0,FALSE
+167,,AS201700309,DWHC,07-11-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Den haag,Z-Holland,52.08,4.27,0,FALSE
+168,,AS201700313,DWHC,07-11-2017,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Den haag,Z-Holland,52.08,4.27,0,FALSE
+169,,AS201800007,DWHC,28-11-2017,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Groningen,Groningen,53.22,6.56,0,FALSE
+170,,AS201800027,DWHC,24-01-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bronckhorst,Gelderland,52,6.24,0,FALSE
+171,,AS201800028,DWHC,23-01-2018,DateFound,Fieldfare,Kramsvogel,Turdus pilaris,Turdidae,Passeriformes,Borger - odoorn,Drenthe,52.96,6.98,1,FALSE
+172,,AS201800030,DWHC,05-02-2018,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Geertruidenberg,Brabant,51.71,4.85,0,FALSE
+173,,AS201800062,DWHC,25-02-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.33,5.28,0,FALSE
+174,,AS201800048,DWHC,06-03-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Leeuwarden,Friesland,53.2,5.8,0,FALSE
+175,,AS201800050,DWHC,14-03-2018,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Zuidplas,Z-Holland,51.97,4.62,0,FALSE
+176,,AS201800052,DWHC,28-03-2018,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Berkelland,Gelderland,52.13,6.49,0,FALSE
+177,,AS201800055,DWHC,27-03-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Landerd,Brabant,51.7,5.67,0,FALSE
+178,,AS201800058,DWHC,27-03-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Landerd,Brabant,51.7,5.67,0,FALSE
+179,,AS201800059,DWHC,17-05-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,De Ronde Venen,Utrecht,52.2,4.86,0,FALSE
+180,,AS201800060,DWHC,22-05-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Arnhem,Gelderland,51.98,5.87,0,FALSE
+181,,AS201800172,DWHC,27-05-2018,DateFound,Long-eared Owl,Ransuil,Asio otus,Strigidae,Strigiformes,Tilburg,Brabant,51.64,5.11,0,TRUE
+182,,AS201800066,DWHC,04-06-2018,DateFound,Eurasian Jay,Gaai,Garrulus glandarius,Corvidae,Passeriformes,Breda,Brabant,51.58,4.74,0,FALSE
+183,,AS201800063,DWHC,12-06-2018,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Echt-Susteren,Limburg,51.05,5.96,0,FALSE
+184,,AS201800064,DWHC,12-06-2018,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Echt-Susteren,Limburg,51.05,5.96,0,FALSE
+185,,AS201800065,DWHC,12-06-2018,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Echt-Susteren,Limburg,51.05,5.96,0,FALSE
+186,,AS201800067,DWHC,18-06-2018,DateFound,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Nieuwkoop,Z-Holland,52.1,4.73,0,FALSE
+187,,AS201800068,DWHC,04-07-2018,DateFound,Swallow,Zwaluw,Hirundinidae (fam),Hirundinidae,Passeriformes,Wolphaartsdijk,Zeeland,51.52,3.84,0,FALSE
+188,,AS201800069,DWHC,04-07-2018,DateFound,Swallow,Zwaluw,Hirundinidae (fam),Hirundinidae,Passeriformes,Wolphaartsdijk,Zeeland,51.52,3.84,0,FALSE
+189,,AS201800070,DWHC,04-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zwaanshoek,N-Holland,52.31,4.62,0,FALSE
+190,,AS201800071,DWHC,10-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ede,Gelderland,52.03,5.65,0,FALSE
+191,,AS201800073,DWHC,16-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Kraggenburg,Flevoland,52.68,5.9,0,FALSE
+192,,AS201800096,DWHC,07-07-2018,DateFound,Common Kestrel,Torenvalk,Falco tinnunculus,Falconidae,Falconiformes,Nieuwkoop,Z-Holland,52.11,4.76,0,TRUE
+193,MN122216,AS201800081,DWHC,26-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Naarden,N-Holland,52.3,5.15,1,TRUE
+194,MN122217,AS201800082,DWHC,26-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Naarden,N-Holland,52.3,5.15,1,TRUE
+195,,AS201800083,DWHC,30-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lemelerveld,Overijssel,52.45,6.34,0,TRUE
+196,MN122218,AS201800084,DWHC,30-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Spijk,Gelderland,53.4,6.84,1,TRUE
+197,,AS201800085,DWHC,30-07-2018,DateFound,European Greenfinch,Roodborst,Chloris chloris,Fringillidae,Passeriformes,Middelburg,Zeeland,51.52,3.62,1,TRUE
+198,MN122219,AS201800086,DWHC,30-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Middelburg,Zeeland,51.52,3.62,1,TRUE
+199,MN122220,AS201800087,DWHC,31-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wierden,Overijssel,52.36,6.54,1,TRUE
+200,MN122221,AS201800088,DWHC,31-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Losser,Overijssel,52.27,6.99,1,TRUE
+201,MN122222,AS201800089,DWHC,31-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rijswijk,Z-Holland,52.03,4.35,1,TRUE
+202,MN122223,AS201800090,DWHC,31-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ermelo,Gelderland,52.29,5.61,1,TRUE
+203,MN122224,AS201800091,DWHC,31-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ermelo,Gelderland,52.29,5.61,1,TRUE
+204,MN122225,AS201800092,DWHC,01-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rotterdam,Z-Holland,51.97,4.57,1,TRUE
+205,MN122229,AS201800097,DWHC,01-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oldambt,Groningen,53.17,7.09,1,TRUE
+206,MN122226,AS201800093,DWHC,02-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Leiden,Z-Holland,52.15,4.46,1,TRUE
+207,MN122227,AS201800094,DWHC,03-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bilthoven,Utrecht,52.13,5.21,1,TRUE
+208,MN122228,AS201800095,DWHC,03-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Middelburg,Zeeland,51.51,3.61,1,TRUE
+209,,AS201800098,DWHC,03-08-2018,DateFound,Northern Goshawk,Havik,Accipiter gentilis,Accipitridae,Accipitriformes,Tilburg,Brabant,51.54,5.05,0,TRUE
+210,MN122230,AS201800099,DWHC,05-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Noordoostpolder,Flevoland,52.65,5.77,1,TRUE
+211,MN122231,AS201800100,DWHC,06-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Venlo,Limburg,51.48,6.18,1,TRUE
+212,MN122232,AS201800101,DWHC,05-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Tynaarlo,Drenthe,53.14,6.57,1,TRUE
+213,MN122233,AS201800102,DWHC,08-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Noordenveld,Drenthe,53.14,6.47,1,TRUE
+214,MN122234,AS201800103,DWHC,08-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Raalte,Overijssel,52.38,6.26,1,TRUE
+215,,AS201800173,DWHC,08-08-2018,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Westland,Z-Holland,51.99,4.21,1,TRUE
+216,MN122235,AS201800112,DWHC,13-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Boekel,Brabant,51.6,5.75,1,FALSE
+217,MN122236,AS201800113,DWHC,12-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Westland,Z-Holland,51.99,4.21,1,FALSE
+218,MN122237,AS201800114,DWHC,14-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Noordoostpolder,Flevoland,52.67,5.72,1,FALSE
+219,MN122238,AS201800115,DWHC,14-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Midden groningen,Groningen,53.19,6.79,1,FALSE
+220,MN122239,AS201800116,DWHC,14-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Groningen,Groningen,53.23,6.59,1,FALSE
+221,MN122240,AS201800118,DWHC,15-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Den haag,Z-Holland,52.04,4.24,1,FALSE
+222,,AS201800119,DWHC,15-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Den haag,Z-Holland,52.04,4.24,0,FALSE
+223,MN122241,AS201800120,DWHC,16-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrechtse Heuvelrug,Utrecht,52.06,5.41,1,FALSE
+224,MN122242,AS201800121,DWHC,15-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heerenveen,Friesland,52.97,5.97,1,FALSE
+225,,AS201800174,DWHC,13-07-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Buren (Lienden),Gelderland,51.95,5.51,1,TRUE
+226,MN122243,AS201800122,DWHC,20-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Tytsjerksteradiel,Friesland,53.16,6,1,FALSE
+227,MN122244,AS201800123,DWHC,17-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Tytsjerksteradiel,Friesland,53.16,6,1,FALSE
+228,,AS201800124,DWHC,20-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,West maas en waal,Gelderland,51.88,5.51,0,FALSE
+229,MN122245,AS201800125,DWHC,20-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Westerveld,Drenthe,52.88,6.19,1,FALSE
+230,MN122246,AS201800126,DWHC,20-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hardenberg,Overijssel,52.61,6.42,1,FALSE
+231,MN122247,AS201800127,DWHC,21-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Groningen,Groningen,53.3,6.73,1,FALSE
+232,MN122248,AS201800128,DWHC,20-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zuidhorn,Groningen,53.24,6.4,1,FALSE
+233,MN122249,AS201800129,DWHC,21-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lochem,Gelderland,52.16,6.42,1,FALSE
+234,,AS201800130,DWHC,22-08-2018,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Vlagtwedde,Groningen,52.94,7.18,1,FALSE
+235,,AS201800175,DWHC,22-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wunseradiel,Friesland,53.04,5.5,1,TRUE
+236,MN122250,AS201800150,DWHC,28-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bloemendaal,N-Holland,52.36,4.59,1,TRUE
+237,MN122251,AS201800151,DWHC,29-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bloemendaal,N-Holland,52.36,4.59,1,TRUE
+238,MN122252,AS201800152,DWHC,29-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bloemendaal,N-Holland,52.36,4.59,1,TRUE
+239,,AS201800153,DWHC,28-08-2018,DateFound,Tawny Owl,Bosuil,Strix aluco,Strigidae,Strigiformes,Nieuwkoop,Z-Holland,52.16,4.82,0,TRUE
+240,MN122253,AS201800154,DWHC,29-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oldebroek,Gelderland,52.08,6.18,1,TRUE
+241,MN122254,AS201800155,DWHC,29-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heerhugowaard,N-Holland,52.66,4.84,1,TRUE
+242,MN122255,AS201800156,DWHC,30-08-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bosch en duin,Utrecht,52.12,5.24,1,TRUE
+243,MN122256,AS201800157,DWHC,03-09-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Borger-odoorn,Drenthe,52.85,6.85,1,TRUE
+244,,AS201800158,DWHC,03-09-2018,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Leek,Groningen,53.16,6.38,1,TRUE
+245,,AS201800159,DWHC,03-09-2018,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Hardenberg,Overijssel,52.57,6.6,1,TRUE
+246,,AS201800176,DWHC,05-09-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heerlen,Limburg,52.66,4.87,1,TRUE
+247,,AS201800177,DWHC,05-09-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Noord Beveland,Zeeland,52.07,5.19,1,TRUE
+248,,AS201800178,DWHC,06-09-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,De bilt,Utrecht,52.18,5.17,1,TRUE
+249,,AS201800179,DWHC,09-09-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Midden-drenthe,Drenthe,52.88,6.59,1,TRUE
+250,,AS201800160,DWHC,12-09-2018,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Tolbert,Groningen,53.18,6.37,0,TRUE
+251,,AS201800161,DWHC,12-09-2018,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Leek,Groningen,53.17,6.36,0,TRUE
+252,,AS201800162,DWHC,17-09-2018,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Warfhuizen,Groningen,53.33,6.42,0,TRUE
+253,,AS201800180,DWHC,19-09-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hof van Twente,Overijssel,52.23,6.53,1,TRUE
+254,,AS201800181,DWHC,08-10-2018,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Tynaarlo,Drenthe,53.13,6.56,0,TRUE
+255,,AS201800224,DWHC,25-11-2018,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Leiden,Z-Holland,52.15,4.45,0,TRUE
+256,,AS201800225,DWHC,26-11-2018,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Lansingerland,Z-Holland,51.99,4.49,0,TRUE
+257,,AS20190899,DWHC,03-01-2019,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Nijmegen,Gelderland,51.82,5.88,0,TRUE
+258,,AS20190189,DWHC,28-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Moddergat,Friesland,53.45,5.69,0,TRUE
+259,,AS20190193,DWHC,28-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Moddergat,Friesland,53.45,5.69,0,TRUE
+260,,AS20190197,DWHC,28-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Moddergat,Friesland,53.45,5.69,0,TRUE
+261,,AS20190201,DWHC,29-01-2019,DateFound,Razorbill,Alk,Alca torda,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+262,,AS20190205,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+263,,AS20190209,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+264,,AS20190213,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+265,,AS20190217,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+266,,AS20190221,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+267,,AS20190225,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+268,,AS20190229,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Buren (Ameland),Friesland,53.46,5.79,0,TRUE
+269,,AS20190233,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Schiermonnikoog,Friesland,53.51,6.29,0,TRUE
+270,,AS20190237,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Schiermonnikoog,Friesland,53.51,6.29,0,TRUE
+271,,AS20190241,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Zandvoort,N-Holland,52.37,4.53,0,TRUE
+272,,AS20190245,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Zandvoort,N-Holland,52.38,4.53,0,TRUE
+273,,AS20190249,DWHC,29-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Zandvoort,N-Holland,52.4,4.54,0,TRUE
+274,,AS20190253,DWHC,29-01-2019,DateFound,Razorbill,Alk,Alca torda,Alcidae,Charadriiformes,De Cocksdorp (Texel),N-Holland,53.15,4.8,0,TRUE
+275,,AS20190257,DWHC,31-01-2019,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Bergen aan Zee,N-Holland,52.66,4.63,0,TRUE
+276,,AS20190099,DWHC,10-02-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Voorst,Gelderland,52.19,6.13,0,TRUE
+277,,AS20190100,DWHC,05-03-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rheden,Gelderland,51.99,5.97,0,TRUE
+278,,AS20190101,DWHC,18-03-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zaanstad,N-Holland,52.49,4.8,0,FALSE
+279,,AS20190102,DWHC,28-03-2019,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Hattem,Gelderland,52.46,6.06,0,FALSE
+280,,AS20190103,DWHC,28-03-2019,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Hattem,Gelderland,52.46,6.06,0,FALSE
+281,,AS20190104,DWHC,30-03-2019,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Arnhem,Gelderland,52,5.9,0,FALSE
+282,,AS20190105,DWHC,07-05-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lingewaard,Gelderland,51.94,5.92,0,FALSE
+283,,AS20190267,DWHC,11-06-2019,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Nieuw Wehl,Gelderland,51.98,6.17,0,TRUE
+284,,AS20190392,DWHC,25-06-2019,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Deelen,Gelderland,52.1,5.92,0,TRUE
+285,,AS20190274,DWHC,09-07-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.08,5.18,0,TRUE
+286,,AS20190393,DWHC,07-07-2019,DateFound,Eurasian Sparrowhawk,Sperwer,Accipiter nisus,Accipitridae,Accipitriformes,Baarn,Utrecht,52.19,5.22,0,TRUE
+287,,AS20190394,DWHC,09-07-2019,DateFound,Dunnock,Heggenmus,Prunella modularis,Prunellidae,Passeriformes,Gooise meren,N-Holland,52.29,5.15,0,TRUE
+288,,AS20190391,DWHC,10-07-2019,DateFound,White Stork,Ooievaar,Ciconia ciconia,Ciconiidae,Ciconiiformes,Dinkelland,Overijssel,52.36,6.96,0,TRUE
+289,,AS20190287,DWHC,11-07-2019,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Utrecht,Utrecht,52.08,5.18,0,TRUE
+290,,AS20190395,DWHC,15-07-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Winterswijk,Gelderland,51.98,6.7,0,TRUE
+291,,AS20210356,DWHC,30-05-2021,DateFound,Muscovy Duck,Muskuseend,Cairina moschata,Anatidae,Anseriformes,Oostzaan,N-Holland,52.44,4.88,0,TRUE
+292,,AS20190264,DWHC,11-07-2019,DateFound,Eurasian Eagle-owl,Oehoe,Bubo bubo,Strigidae,Strigiformes,Woold,Gelderland,51.92,6.67,0,TRUE
+293,,AS20190307,DWHC,23-07-2019,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Tytsjerksteradiel,Friesland,53.21,5.91,0,TRUE
+294,,AS20190563,DWHC,23-07-2019,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Tytsjerksteradiel,Friesland,53.21,5.91,0,TRUE
+295,,AS20190314,DWHC,23-07-2019,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Tytsjerksteradiel,Friesland,53.21,5.91,0,TRUE
+296,,AS20190318,DWHC,24-07-2019,DateFound,Tern,Sternachtige,Sterninae (fam),Laridae,Charadriiformes,Utrecht,Utrecht,52.14,5.09,0,TRUE
+297,,AS20190322,DWHC,24-07-2019,DateFound,Common Tern,Visdief,Sterna hirundo,Laridae,Charadriiformes,Bierum,Groningen,53.41,6.89,0,TRUE
+298,,AS20190326,DWHC,24-07-2019,DateFound,Common Tern,Visdief,Sterna hirundo,Laridae,Charadriiformes,Bierum,Groningen,53.41,6.89,0,TRUE
+299,,AS20190360,DWHC,05-08-2019,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Zuidlaren,Drenthe,53.09,6.68,0,TRUE
+300,,AS20190364,DWHC,06-08-2019,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Hedel,Gelderland,51.76,5.26,0,TRUE
+301,,AS20190368,DWHC,08-08-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Westerwolde,Groningen,53.01,7.12,0,TRUE
+302,,AS20211115,DWHC,11-10-2021,DateFound,Muscovy Duck,Muskuseend,Cairina moschata,Anatidae,Anseriformes,Zevenhoven,Z-Holland,52.19,4.82,0,TRUE
+303,,AS20190478,DWHC,12-08-2019,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Noordenveld,Drenthe,53.12,6.39,0,TRUE
+304,,AS20190411,DWHC,14-08-2019,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Montferland,Gelderland,51.94,6.13,0,TRUE
+305,,AS20190396,DWHC,14-08-2019,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Haarlem,N-Holland,52.42,4.66,1,TRUE
+306,,AS20190530,DWHC,19-08-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrechtse Heuvelrug,Utrecht,52,5.46,1,TRUE
+307,,AS20190516,DWHC,20-08-2019,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Coevorden,Drenthe,52.8,6.79,1,FALSE
+308,,AS20190531,DWHC,21-08-2019,DateFound,Eurasian Sparrowhawk,Sperwer,Accipiter nisus,Accipitridae,Accipitriformes,Haarlemmermeer,N-Holland,52.29,4.6,0,TRUE
+309,,AS20190486,DWHC,26-08-2019,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Rotterdam,Z-Holland,51.93,4.46,0,TRUE
+310,,AS20190490,DWHC,27-08-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Renkum,Gelderland,51.98,5.81,1,TRUE
+311,,AS20190494,DWHC,28-08-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Amersfoort,Utrecht,52.2,5.38,1,TRUE
+312,,AS20190450,DWHC,03-09-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gemert-Bakel,Brabant,51.58,5.72,1,TRUE
+313,,AS20190434,DWHC,09-09-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Noordenveld,Groningen,53.15,6.39,0,TRUE
+314,,AS20190422,DWHC,11-09-2019,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Krimpenerwaard,Z-Holland,52,4.77,0,TRUE
+315,,AS20190407,DWHC,10-09-2019,DateFound,Dunnock,Heggenmus,Prunella modularis,Prunellidae,Passeriformes,Borne,Overijssel,52.31,6.76,0,TRUE
+316,,AS20190426,DWHC,12-09-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Noordenveld,Drenthe,53.15,6.39,0,TRUE
+317,,AS20190403,DWHC,12-09-2019,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Bunnik,Utrecht,52.07,5.21,0,TRUE
+318,,AS20190442,DWHC,11-09-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Groningen,Groningen,53.25,6.6,0,TRUE
+319,,AS20190415,DWHC,16-09-2019,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Bladel,Brabant,51.38,5.24,0,TRUE
+320,,AS20190643,DWHC,18-09-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Vlagtwedde,Groningen,52.99,7.13,1,TRUE
+321,,AS20190579,DWHC,19-09-2019,DateFound,Dunnock,Heggenmus,Prunella modularis,Prunellidae,Passeriformes,Vught,Brabant,51.71,5.37,1,TRUE
+322,,AS20190575,DWHC,25-09-2019,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Haarlem,N-Holland,52.42,4.66,0,TRUE
+323,,AS20190583,DWHC,29-09-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Apeldoorn,Gelderland,52.26,5.92,0,TRUE
+324,,AS20190691,DWHC,02-10-2019,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Culemborg,Gelderland,51.95,5.24,0,TRUE
+325,,AS20190696,DWHC,15-10-2019,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Twenterand,Overijssel,52.4,6.61,0,TRUE
+326,,AS20190663,DWHC,24-10-2019,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Amsterdam,N-Holland,52.39,4.92,0,TRUE
+327,,AS20190721,DWHC,26-10-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rotterdam,Z-Holland,51.91,4.23,0,TRUE
+328,,AS20190747,DWHC,30-10-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nijmegen,Gelderland,51.82,5.78,0,TRUE
+329,,AS20190732,DWHC,03-11-2019,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Ouderkerk aan de Amstel,N-Holland,52.29,4.9,0,TRUE
+330,,AS20190740,DWHC,03-11-2019,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Ouder- amstel,N-Holland,52.29,4.9,0,TRUE
+331,,AS20190736,DWHC,05-11-2019,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Brummen,Gelderland,52.09,6.06,0,TRUE
+332,,AS20190728,DWHC,05-11-2019,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Arnhem,Gelderland,51.95,5.9,0,TRUE
+333,,AS20190772,DWHC,09-11-2019,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Dordrecht,Z-Holland,51.78,4.68,0,TRUE
+334,,AS20190823,DWHC,11-11-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gorinchem,Z-Holland,51.83,4.99,0,TRUE
+335,,AS20190831,DWHC,13-11-2019,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Ouder- amstel,N-Holland,52.29,4.9,0,TRUE
+336,,AS20190788,DWHC,21-11-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Tubbergen,Overijssel,52.38,6.79,0,TRUE
+337,,AS20190851,DWHC,25-11-2019,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Leeuwarden,Friesland,53.19,5.76,0,TRUE
+338,,AS20190882,DWHC,04-12-2019,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Leusden,Utrecht,52.12,5.41,0,TRUE
+339,,AS20190886,DWHC,04-12-2019,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Grens amsterdam/Broek in Waterland,N-Holland,52.42,4.95,0,TRUE
+340,,AS20190874,DWHC,09-12-2019,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Leeuwarden,Friesland,53.19,5.76,0,TRUE
+341,,AS20200004,DWHC,12-12-2019,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Het bildt,Friesland,53.27,5.7,0,TRUE
+342,,AS20200036,DWHC,18-12-2019,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Haaksbergen,Overijssel,52.16,6.84,0,TRUE
+343,,AS20200020,DWHC,30-12-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Borger-odoorn,Drenthe,52.9,6.92,0,TRUE
+344,,AS20200012,DWHC,30-12-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Borger-odoorn,Drenthe,52.9,6.92,0,TRUE
+345,,AS20200016,DWHC,30-12-2019,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Borger-odoorn,Drenthe,52.9,6.92,0,TRUE
+346,,AS201600179,DWHC,28-09-2016,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.3,5.16,0,FALSE
+347,,AS201600209,DWHC,28-09-2016,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.3,5.16,1,FALSE
+348,,AS20200097,DWHC,06-01-2020,DateFound,Brambling,Keep,Fringilla montifringilla,Fringillidae,Passeriformes,Westerkwartier,Groningen,53.16,6.21,0,TRUE
+349,,AS20200085,DWHC,07-01-2020,DateFound,Common Moorhen,Waterhoen,Gallinula chloropus,Rallidae,Gruiformes,Nieuw-Vennep,N-Holland,52.28,4.63,0,TRUE
+350,,AS20200077,DWHC,12-01-2020,DateFound,Black-headed Gull,Kokmeeuw,Chroicocephalus ridibundus,Laridae,Charadriiformes,Utrecht,Utrecht,52.11,5.09,0,TRUE
+351,,AS20200134,DWHC,15-01-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Best,Brabant,51.51,5.99,0,TRUE
+352,,AS20200124,DWHC,19-01-2020,DateFound,Long-eared Owl,Ransuil,Asio otus,Strigidae,Strigiformes,Gilze en rijen,Brabant,51.59,4.91,0,TRUE
+353,,AS20200146,DWHC,21-01-2020,DateFound,Black-headed Gull,Kokmeeuw,Chroicocephalus ridibundus,Laridae,Charadriiformes,Utrecht,Utrecht,52.11,5.09,0,TRUE
+354,,AS20200138,DWHC,27-01-2020,DateFound,Peregrine Falcon,Slechtvalk,Falco peregrinus,Falconidae,Falconiformes,Zundert,Brabant,51.5,4.62,0,TRUE
+355,,AS201700035,DWHC,08-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+356,,AS20200147,DWHC,03-02-2020,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Wijk bij Duurstede,Utrecht,51.98,5.33,0,TRUE
+357,,AS20200149,DWHC,02-02-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rotterdam,Z-Holland,51.97,4.57,0,TRUE
+358,,AS20200157,DWHC,03-02-2020,DateFound,Eurasian Wigeon,Smient,Mareca penelope,Anatidae,Anseriformes,Zaanstad,N-Holland,52.51,4.75,0,TRUE
+359,,AS20200158,DWHC,13-02-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Wageningen,Gelderland,51.98,5.67,0,TRUE
+360,,AS20200168,DWHC,17-02-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Duiven,Gelderland,51.94,6.01,0,TRUE
+361,,AS20200167,DWHC,18-02-2020,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Amersfoort Vathorst,Utrecht,52.2,5.41,0,TRUE
+362,,AS20200174,DWHC,18-02-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hilversum,N-Holland,52.22,5.17,0,TRUE
+363,,AS20200165,DWHC,18-02-2020,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Renkum,Gelderland,51.99,5.82,0,TRUE
+364,,AS20200172,DWHC,19-02-2020,DateFound,Eurasian Eagle-owl,Oehoe,Bubo bubo,Strigidae,Strigiformes,Bergen,Limburg,51.47,6.18,0,TRUE
+365,,AS20200171,DWHC,01-03-2020,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Capelle aan den Ijssel,Z-Holland,51.94,4.58,0,TRUE
+366,,AS20200238,DWHC,03-03-2020,DateFound,Ring-necked Pheasant,Fazant,Phasianus colchicus,Phasianidae,Galliformes,Utrecht,Utrecht,52.11,5.02,0,TRUE
+367,,AS20200210,DWHC,11-03-2020,DateFound,Common Moorhen,Waterhoen,Gallinula chloropus,Rallidae,Gruiformes,Aquazoo Friesland,Friesland,53.22,5.88,0,TRUE
+368,,AS20200213,DWHC,10-03-2020,DateFound,Grey Heron,Blauwe Reiger,Ardea cinerea,Ardeidae,Pelecaniformes,Geldrop-Mierlo,Brabant,51.41,5.56,0,TRUE
+369,,AS20200217,DWHC,15-03-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Noordenveld,Drenthe,53.14,6.41,0,TRUE
+370,,AS201700037,DWHC,13-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+371,,AS20200222,DWHC,13-04-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Deurne,Brabant,51.4,5.84,0,TRUE
+372,,AS20200247,DWHC,19-04-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Barneveld,Gelderland,52.19,5.78,0,TRUE
+373,,AS201700039,DWHC,17-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+374,,AS20200205,DWHC,21-04-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oldambt,Groningen,53.2,7.11,0,TRUE
+375,,AS20200204,DWHC,22-04-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Doetinchem,Gelderland,51.95,6.36,0,TRUE
+376,,AS20200175,DWHC,23-04-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Aalten,Gelderland,51.93,6.59,0,TRUE
+377,,AS20200188,DWHC,28-04-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Uden,Brabant,51.64,5.71,0,TRUE
+378,,AS20200177,DWHC,28-04-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Enschede,Overijssel,52.21,6.96,0,TRUE
+379,,AS20200250,DWHC,30-04-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Goes,Zeeland,51.52,3.9,0,TRUE
+380,,AS20200184,DWHC,06-05-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Zuidplas,Z-Holland,51.97,4.62,0,TRUE
+381,,AS20200200,DWHC,05-05-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Veldhoven,Brabant,51.43,5.41,0,TRUE
+382,,AS20200199,DWHC,07-05-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Putten,Gelderland,52.24,5.61,0,TRUE
+383,,AS20200234,DWHC,11-05-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Oldambt,Groningen,53.2,7.1,0,TRUE
+384,,AS20200239,DWHC,12-05-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Zeist,Utrecht,52.08,5.23,0,TRUE
+385,,AS20200197,DWHC,11-05-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Lingewaard,Gelderland,51.95,5.94,0,TRUE
+386,,AS20200176,DWHC,13-05-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Hillegom,Z-Holland,52.29,4.58,0,TRUE
+387,,AS201700041,DWHC,20-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+388,,AS20200244,DWHC,17-05-2020,DateFound,Northern Goshawk,Havik,Accipiter gentilis,Accipitridae,Accipitriformes,Bergen,Limburg,51.58,6.06,0,TRUE
+389,,AS201700043,DWHC,22-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,1,FALSE
+390,,AS201700045,DWHC,22-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+391,,AS20200229,DWHC,24-05-2020,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Venray,Limburg,51.52,5.95,0,TRUE
+392,,AS20200185,DWHC,25-05-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.45,5.47,0,TRUE
+393,,AS20200202,DWHC,25-05-2020,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Woerden,Utrecht,52.12,4.89,0,TRUE
+394,,AS20200191,DWHC,26-05-2020,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Ermelo,Gelderland,52.3,5.6,0,TRUE
+395,,AS20200246,DWHC,27-05-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Stichtse Vecht,Utrecht,52.13,5.02,0,TRUE
+396,,AS20200180,DWHC,01-06-2020,DateFound,Lesser Spotted Woodpecker,Kleine Bonte Specht,Dryobates minor,Picidae,Piciformes,Ede,Gelderland,52,5.69,0,TRUE
+397,,AS20200232,DWHC,03-06-2020,DateFound,Eurasian Spoonbill,Lepelaar,Platalea leucorodia,Threskiornithidae,Pelecaniformes,Schiermonnikoog,Friesland,53.48,6.23,0,TRUE
+398,,AS20200187,DWHC,08-06-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Hardenberg,Overijssel,52.5,6.67,0,TRUE
+399,,AS20200253,DWHC,08-06-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Apeldoorn,Gelderland,52.16,5.95,0,TRUE
+400,,AS201700047,DWHC,24-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+401,,AS20200236,DWHC,09-06-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,De bilt,Utrecht,52.11,5.19,0,TRUE
+402,,AS20200248,DWHC,09-06-2020,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Breda,Brabant,51.57,4.79,0,TRUE
+403,,AS20200233,DWHC,11-06-2020,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Dinkelland,Overijssel,52.34,6.79,0,TRUE
+404,,AS201700049,DWHC,24-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+405,,AS20200235,DWHC,13-06-2020,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Hengelo,Overijssel,52.29,6.82,0,TRUE
+406,,AS20200260,DWHC,16-06-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wijchen,Gelderland,51.8,5.74,0,TRUE
+407,,AS20200263,DWHC,17-06-2020,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Den haag,Z-Holland,52.04,4.36,0,TRUE
+408,,AS20200261,DWHC,22-06-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Valkenburg aan de Geul,Limburg,50.86,5.79,0,TRUE
+409,,AS20200269,DWHC,29-06-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Goeree-Overflakkee,Z-Holland,51.74,4.1,0,TRUE
+410,,AS201700051,DWHC,24-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,0,FALSE
+411,,AS20200267,DWHC,01-07-2020,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Barneveld,Gelderland,52.19,5.65,0,TRUE
+412,,AS20200277,DWHC,01-07-2020,DateFound,Yellowhammer,Geelgors,Emberiza citrinella,Fringillidae,Passeriformes,Olst-Wijhe,Overijssel,52.32,6.17,0,TRUE
+413,,AS20200271,DWHC,07-07-2020,DateFound,Eurasian Jay,Gaai,Garrulus glandarius,Corvidae,Passeriformes,Tytsjerksteradiel ,Friesland,53.22,5.92,0,TRUE
+414,,AS20200254,DWHC,08-07-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dongen,Brabant,51.64,4.94,0,TRUE
+415,,AS20200257,DWHC,09-07-2020,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Eindhoven,Brabant,51.41,5.52,0,TRUE
+416,,AS20200255,DWHC,08-07-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Helmond,Brabant,51.47,5.71,0,TRUE
+417,,AS201700053,DWHC,24-03-2017,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Naarden,N-Holland,52.29,5.15,1,FALSE
+418,,AS20200351,DWHC,15-07-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Amsterdam,N-Holland,52.42,4.87,0,TRUE
+419,,AS20200376,DWHC,20-07-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.09,5.13,0,TRUE
+420,,AS20200401,DWHC,22-07-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Peel en Maas,Limburg,51.29,6.05,0,TRUE
+421,,AS20200410,DWHC,22-07-2020,DateFound,European Turtle Dove,Zomertortel,Streptopelia turtur,Columbidae,Columbiformes,Zeist,Utrecht,52.96,6.4,0,TRUE
+422,,AS20200434,DWHC,27-07-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zeist,Utrecht,52.15,5.24,0,TRUE
+423,,AS20200430,DWHC,30-07-2020,DateFound,Black Tern,Zwarte Stern,Chlidonias niger,Laridae,Charadriiformes,Almere,Flevoland,52.17,4.96,0,TRUE
+424,,AS20200396,DWHC,05-08-2020,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Velsen,N-Holland,52.46,4.6,0,TRUE
+425,,AS20200386,DWHC,05-08-2020,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Velsen,N-Holland,52.46,4.6,0,TRUE
+426,,AS20200405,DWHC,12-08-2020,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Velsen,N-Holland,52.42,4.66,0,TRUE
+427,,AS20200360,DWHC,16-08-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Nieuwkoop,Z-Holland,52.12,4.78,0,TRUE
+428,,AS20200367,DWHC,16-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Overbetuwe,Gelderland,51.91,5.84,1,TRUE
+429,,AS20200420,DWHC,18-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ede,Gelderland,52,5.67,0,TRUE
+430,,AS20200415,DWHC,19-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Overbetuwe,Gelderland,51.96,5.81,1,TRUE
+431,,AS20200342,DWHC,23-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Buren,Gelderland,51.95,5.51,1,TRUE
+432,,AS20200444,DWHC,25-08-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Ubbergen,Gelderland,51.83,5.93,1,TRUE
+433,,AS20200451,DWHC,25-08-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Groesbeek,Gelderland,51.83,5.91,0,TRUE
+434,,AS20211000,DWHC,31-08-2021,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Bellingwolde,Groningen,53.1,7.07,1,TRUE
+435,,AS20220967,DWHC,22-03-2022,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Zundert,Brabant,51.65,4.59,0,TRUE
+436,,AS20200456,DWHC,02-09-2020,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Gemert-Bakel,Brabant,51.58,5.72,0,TRUE
+437,,AS20200596,DWHC,07-09-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Laren,Gelderland,52.18,6.37,0,TRUE
+438,,AS20200484,DWHC,09-09-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Halderberge,Brabant,51.61,4.55,0,TRUE
+439,,AS20200479,DWHC,14-09-2020,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Zeist,Utrecht,52.15,5.24,0,TRUE
+440,,AS20200474,DWHC,14-09-2020,DateFound,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Utrecht,Utrecht,52.09,5.07,0,TRUE
+441,,AS20200487,DWHC,15-09-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Alblasserwaard,Z-Holland,51.83,4.68,1,TRUE
+442,,AS20200492,DWHC,15-09-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Ede,Gelderland,52.1,5.77,0,TRUE
+443,,AS20200586,DWHC,15-09-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Haarlemmermeer,N-Holland,52.27,4.62,1,TRUE
+444,,AS20200531,DWHC,17-09-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Arnhem,Gelderland,52,5.95,1,TRUE
+445,,AS20200507,DWHC,18-09-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Ronde venen,Utrecht,52.2,4.86,0,TRUE
+446,,AS20200626,DWHC,17-09-2020,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Nunspeet,Gelderland,52.38,5.8,0,TRUE
+447,,AS20200576,DWHC,18-09-2020,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Nunspeet,Gelderland,52.38,5.8,0,TRUE
+448,,AS20200513,DWHC,19-09-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Blaricum,N-Holland,52.28,5.25,0,TRUE
+449,,AS20200556,DWHC,22-09-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Utrecht,Utrecht,52.08,5.04,0,TRUE
+450,,AS20200571,DWHC,21-09-2020,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Zeist,Utrecht,52.12,5.25,0,TRUE
+451,,AS20200605,DWHC,22-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wageningen,Gelderland,51.98,5.65,1,TRUE
+452,,AS20200591,DWHC,26-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Laag-Soeren,Gelderland,52.08,6.07,0,TRUE
+453,,AS20200610,DWHC,26-08-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Laag-Soeren,Gelderland,52.08,6.07,1,TRUE
+454,,AS20200541,DWHC,03-09-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Wageningen,Gelderland,51.98,5.66,1,TRUE
+455,,AS20200526,DWHC,21-09-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eersel,Brabant,51.35,5.31,1,TRUE
+456,,AS20200581,DWHC,22-09-2020,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Stadskanaal,Groningen,52.96,7.05,0,TRUE
+457,,AS20200497,DWHC,23-09-2020,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Zutphen,Gelderland,52.11,6.17,0,TRUE
+458,,AS20200536,DWHC,24-09-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Weesp,N-Holland,52.31,5.04,1,TRUE
+459,,AS20200561,DWHC,27-09-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Soest,Utrecht,52.17,5.28,1,TRUE
+460,,AS20200566,DWHC,27-09-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.02,4.88,1,TRUE
+461,,AS20200551,DWHC,27-09-2020,DateFound,Canada Goose,Grote Canadese Gans,Branta canadensis,Anatidae,Anseriformes,Putten,Gelderland,52.26,5.54,0,TRUE
+462,,AS20200652,DWHC,29-09-2020,DateFound,Egyptian Goose,Nijlgans,Alopochen aegyptiaca,Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+463,,AS20200628,DWHC,27-09-2020,DateFound,Egyptian Goose,Nijlgans,Alopochen aegyptiaca,Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+464,,AS20200646,DWHC,26-09-2020,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+465,,AS20200634,DWHC,26-09-2020,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+466,,AS20200640,DWHC,26-09-2020,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+467,,AS20200658,DWHC,26-09-2020,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+468,,AS20200689,DWHC,30-09-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Beesel,Limburg,51.29,6.08,1,TRUE
+469,,AS20200668,DWHC,01-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Almere,Flevoland,52.34,5.2,0,TRUE
+470,,AS20200735,DWHC,29-09-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Heemskerk,N-Holland,52.52,4.68,0,TRUE
+471,,AS20200678,DWHC,27-09-2020,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Zeist,Utrecht,52.09,5.22,0,TRUE
+472,,AS20200720,DWHC,01-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Lingewaard,Gelderland,51.95,5.92,0,TRUE
+473,,AS20200694,DWHC,02-10-2020,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Heiloo,N-Holland,52.59,4.7,0,TRUE
+474,,AS20200745,DWHC,02-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Stede Broec,N-Holland,52.69,5.25,0,TRUE
+475,,AS20200725,DWHC,02-10-2020,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+476,,AS20200699,DWHC,02-10-2020,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+477,,AS20201124,DWHC,06-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Roermond,Limburg,51.18,5.98,0,TRUE
+478,,AS20200780,DWHC,08-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Deventer,Overijssel,52.26,6.17,0,TRUE
+479,,AS20200859,DWHC,12-10-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Wijchen,Gelderland,51.81,5.72,0,TRUE
+480,,AS20200785,DWHC,09-10-2020,DateFound,Eurasian Hoopoe,Hop,Upupa epops,Upupidae,Upupiformes,Rijssen-Holten,Overijssel,52.27,6.43,0,TRUE
+481,,AS20200902,DWHC,07-10-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Emmen,Drenthe,52.78,6.89,0,TRUE
+482,,AS20200790,DWHC,12-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Hengelo,Overijssel,52.28,6.84,0,TRUE
+483,,AS20200891,DWHC,13-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Den bosch,Brabant,51.71,5.32,0,TRUE
+484,,AS20200826,DWHC,13-10-2020,DateFound,Lesser Spotted Woodpecker,Kleine Bonte Specht,Dryobates minor,Picidae,Piciformes,Buren,Gelderland,51.91,5.33,0,TRUE
+485,,AS20200815,DWHC,13-10-2020,DateFound,Lesser Spotted Woodpecker,Kleine Bonte Specht,Dryobates minor,Picidae,Piciformes,Buren,Gelderland,51.91,5.33,0,TRUE
+486,,AS20200795,DWHC,14-10-2020,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Breda,Brabant,51.56,4.78,0,TRUE
+487,,AS20200870,DWHC,14-10-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Epe,Gelderland,52.29,5.91,0,TRUE
+488,,AS20200805,DWHC,14-10-2020,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Utrecht,Utrecht,52.11,5.1,0,TRUE
+489,,AS20200848,DWHC,13-10-2020,DateFound,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Purmerend,N-Holland,52.5,4.95,0,TRUE
+490,,AS20200837,DWHC,13-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Groningen,Groningen,53.31,6.74,0,TRUE
+491,,AS20201015,DWHC,15-10-2020,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Breda,Brabant,51.56,4.78,0,TRUE
+492,,AS20200993,DWHC,14-10-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Olst-Wijhe,Overijssel,52.38,6.14,0,TRUE
+493,,AS20201004,DWHC,15-10-2020,DateFound,Common Teal,Wintertaling,Anas crecca,Anatidae,Anseriformes,Alkmaar,N-Holland,52.69,4.73,0,TRUE
+494,,AS20201026,DWHC,15-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vlaardingen,Z-Holland,51.91,4.34,0,TRUE
+495,,AS20200973,DWHC,15-10-2020,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Westland,Z-Holland,52,4.18,0,TRUE
+496,,AS20201037,DWHC,20-10-2020,DateFound,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+497,,AS20201091,DWHC,20-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+498,,AS20201059,DWHC,20-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+499,,AS20201048,DWHC,19-10-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Tilburg,Brabant,51.57,5.07,0,TRUE
+500,,AS20201080,DWHC,16-10-2020,DateFound,Goldcrest,Goudhaan,Regulus regulus,Regulidae,Passeriformes,Brielle,Z-Holland,51.91,4.16,0,TRUE
+501,,AS20201102,DWHC,16-10-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Gooise meren,N-Holland,52.31,5.15,0,TRUE
+502,,AS20200954,DWHC,19-10-2020,DateFound,Goldcrest,Goudhaan,Regulus regulus,Regulidae,Passeriformes,Gooise meren,N-Holland,52.29,5.17,0,TRUE
+503,,AS20200933,DWHC,20-10-2020,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Wageningen,Gelderland,51.98,5.65,0,TRUE
+504,,AS20201113,DWHC,21-10-2020,DateFound,Gull,Meeuw,Laridae (fam),Laridae,Charadriiformes,Noordoostpolder,Flevoland,52.59,5.37,0,TRUE
+505,,AS20201215,DWHC,22-10-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Almere,Flevoland,52.39,5.3,0,TRUE
+506,,AS20201225,DWHC,26-10-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Krimpenerwaard,Z-Holland,51.9,4.63,0,TRUE
+507,,AS20201326,DWHC,26-10-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Krimpenerwaard,Z-Holland,51.9,4.63,0,TRUE
+508,,AS20201280,DWHC,27-10-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+509,,AS20201290,DWHC,27-10-2020,DateFound,Domestic Goose,Grauwe Gans,Anser anser,Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+510,,AS20201287,DWHC,27-10-2020,DateFound,Domestic Goose,Grauwe Gans,Anser anser,Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+511,,AS20201156,DWHC,26-10-2020,DateFound,Dove,Duif,Columbidae (fam),Columbidae,Columbiformes,Breda,Brabant,51.58,4.78,0,TRUE
+512,,AS20201245,DWHC,26-10-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Brunssum,Limburg,50.94,5.95,0,TRUE
+513,,AS20201223,DWHC,26-10-2020,DateFound,Dove,Duif,Columbidae (fam),Columbidae,Columbiformes,Tilburg,Brabant,51.56,5.08,0,TRUE
+514,,AS20201147,DWHC,27-10-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Groningen,Groningen,53.24,6.59,0,TRUE
+515,,AS20201161,DWHC,27-10-2020,DateFound,Goldcrest,Goudhaan,Regulus regulus,Regulidae,Passeriformes,Geertruidenberg,Brabant,51.7,4.86,0,TRUE
+516,,AS20201262,DWHC,27-10-2020,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Blaricum,N-Holland,52.28,5.26,0,TRUE
+517,,AS20201256,DWHC,27-10-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Leeuwarden,Friesland,53.22,5.88,0,TRUE
+518,,AS20201255,DWHC,29-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+519,,AS20201345,DWHC,29-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+520,,AS20201269,DWHC,29-10-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Berkelland,Gelderland,52.14,6.61,0,TRUE
+521,,AS20201348,DWHC,02-11-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Venray,Limburg,51.52,5.91,0,TRUE
+522,,AS20201314,DWHC,04-11-2020,DateFound,Great Egret,Grote Zilverreiger,Ardea alba,Ardeidae,Pelecaniformes,Utrecht,Utrecht,52.12,5,0,TRUE
+523,,AS20201306,DWHC,04-11-2020,DateFound,Goose,Gans,Anserinae (subfam),Anatidae,Anseriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+524,,AS20201668,DWHC,04-11-2020,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Eindhoven,Brabant,51.47,5.45,0,TRUE
+525,,AS20201422,DWHC,03-11-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Medemblik,N-Holland,52.77,5.1,0,TRUE
+526,,AS20201466,DWHC,08-12-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Brielle,Z-Holland,51.59,4.65,0,TRUE
+527,,AS20201433,DWHC,05-11-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nijefurd,Friesland,52.98,5.45,0,TRUE
+528,,AS20201455,DWHC,10-11-2020,DateFound,Common Reed Bunting,Rietgors,Emberiza schoeniclus,Fringillidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+529,,AS20201400,DWHC,10-11-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+530,,AS20201805,DWHC,10-11-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Maarssen,Utrecht,52.14,5.05,0,TRUE
+531,,AS20201477,DWHC,10-11-2020,DateFound,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,Werkendam,Brabant,51.78,4.92,0,TRUE
+532,,AS20201783,DWHC,09-11-2020,DateFound,Rock Pigeon,Postduif,Columba livia domestica,Columbidae,Columbiformes,Waspik,Brabant,51.69,4.94,0,TRUE
+533,,AS20201647,DWHC,11-11-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Den bosch,Brabant,51.71,5.33,0,TRUE
+534,,AS20201530,DWHC,12-11-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Elst,Utrecht,51.99,5.48,0,TRUE
+535,,AS20201605,DWHC,11-11-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Winsum,Groningen,53.33,6.51,0,TRUE
+536,,AS20201689,DWHC,12-11-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Molenaarsgraaf,Z-Holland,51.87,4.8,0,TRUE
+537,,AS20201552,DWHC,14-11-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Munnekezijl,Friesland,53.31,6.26,0,TRUE
+538,,AS20201563,DWHC,12-11-2020,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Eastermar,Friesland,53.18,6.06,0,TRUE
+539,,AS20201773,DWHC,14-11-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Eemnes,Utrecht,52.24,5.26,0,TRUE
+540,,AS20201585,DWHC,15-11-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Gooise meren,N-Holland,52.28,5.16,0,TRUE
+541,,AS20201678,DWHC,16-11-2020,DateFound,Rose-ringed Parakeet,Halsbandparkiet,Psittacula krameri,Psittacidae,Psittaciformes,Capelle aan den Ijssel,Z-Holland,51.93,4.59,0,TRUE
+542,,AS20201658,DWHC,15-11-2020,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Amsterdam,N-Holland,52.36,4.91,0,TRUE
+543,,AS20201594,DWHC,17-11-2020,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Soest,Utrecht,52.18,5.31,0,TRUE
+544,,AS20201509,DWHC,17-11-2020,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Zeegse,Drenthe,53.07,6.64,0,TRUE
+545,,AS20201740,DWHC,19-11-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Loon op Zand,Brabant,51.63,5.09,0,TRUE
+546,,AS20201794,DWHC,19-11-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,St oedenrode,Brabant,51.57,5.45,0,TRUE
+547,,AS20201815,DWHC,24-11-2020,DateFound,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+548,,AS20201711,DWHC,23-11-2020,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Maarssen,Utrecht,52.14,5.05,0,TRUE
+549,,AS20201824,DWHC,20-11-2020,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Geleen,Limburg,50.99,5.82,0,TRUE
+550,,AS20201720,DWHC,23-11-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Aquazoo Friesland,Friesland,53.22,5.88,0,TRUE
+551,,AS20201857,DWHC,24-11-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Oudemirdum,Friesland,52.86,5.52,0,TRUE
+552,,AS20201877,DWHC,25-11-2020,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Bennebroek,N-Holland,52.32,4.59,0,TRUE
+553,,AS20202037,DWHC,27-11-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Woerden,Utrecht,52.08,4.87,0,TRUE
+554,,AS20202069,DWHC,30-11-2020,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Nuenen,Brabant,51.49,5.57,0,TRUE
+555,,AS20201919,DWHC,29-11-2020,DateFound,Eurasian Siskin,Sijs,Spinus spinus,Fringillidae,Passeriformes,Hoevelaken,Gelderland,52.17,5.45,0,TRUE
+556,,AS20202015,DWHC,02-12-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Weert,Limburg,51.22,5.73,0,TRUE
+557,,AS20201993,DWHC,01-12-2020,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Soest,Utrecht,52.15,5.27,0,TRUE
+558,,AS20201971,DWHC,01-12-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Klarenbeek,Gelderland,52.17,6.1,0,TRUE
+559,,AS20201960,DWHC,02-12-2020,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Rossum,Overijssel,52.35,6.93,0,TRUE
+560,,AS20202212,DWHC,06-12-2020,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Zwolle,Overijssel,52.51,6.09,0,TRUE
+561,,AS20202179,DWHC,05-12-2020,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Beek ubbergen,Gelderland,51.82,5.94,0,TRUE
+562,,AS20202146,DWHC,08-12-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Nieuwaal,Gelderland,51.81,5.18,0,TRUE
+563,,AS20202190,DWHC,08-12-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Nieuwaal,Gelderland,51.81,5.18,0,TRUE
+564,,AS20202102,DWHC,08-12-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Olst,Overijssel,52.36,6.12,0,TRUE
+565,,AS20202124,DWHC,09-12-2020,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hilversum,N-Holland,52.22,5.17,0,TRUE
+566,,AS20202135,DWHC,10-12-2020,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Bleiswijk,Z-Holland,52.01,4.53,0,TRUE
+567,,AS20202324,DWHC,13-11-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Soest,Utrecht,52.19,5.28,0,TRUE
+568,,AS20202255,DWHC,13-12-2020,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Amsterdam,N-Holland,52.38,4.89,0,TRUE
+569,,AS20202314,DWHC,16-12-2020,DateFound,Rock Pigeon,Postduif,Columba livia domestica,Columbidae,Columbiformes,Den helder,N-Holland,52.96,4.78,0,TRUE
+570,,AS20202304,DWHC,15-12-2020,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Wildervank,Groningen,53.09,6.86,0,TRUE
+571,,AS20202409,DWHC,06-01-2021,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Wageningen,Gelderland,51.99,5.69,0,TRUE
+572,,AS20202387,DWHC,06-01-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Brunssum,Limburg,50.82,5.98,0,TRUE
+573,,AS20210085,DWHC,12-01-2021,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Roosendaal,Brabant,51.55,4.48,0,TRUE
+574,,AS20210084,DWHC,12-01-2021,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Roosendaal,Brabant,51.55,4.48,0,TRUE
+575,,AS20202453,DWHC,19-01-2021,DateFound,Rose-ringed Parakeet,Halsbandparkiet,Psittacula krameri,Psittacidae,Psittaciformes,Den haag,Z-Holland,52.08,4.29,0,TRUE
+576,,AS20202448,DWHC,20-01-2021,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Hilversum,N-Holland,52.21,5.16,0,TRUE
+577,,AS20202445,DWHC,20-01-2021,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Renkum,Gelderland,51.97,5.73,0,TRUE
+578,,AS20202450,DWHC,21-01-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Warffum,Groningen,53.39,6.56,0,TRUE
+579,,AS20202430,DWHC,28-01-2021,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Appelscha,Friesland,52.95,6.33,0,TRUE
+580,,AS20202433,DWHC,02-02-2021,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Culemborg,Gelderland,51.96,5.24,0,TRUE
+581,,AS20202436,DWHC,30-01-2021,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Leende,Brabant,51.35,5.55,0,TRUE
+582,,AS20202427,DWHC,01-02-2021,DateFound,European Goldfinch,Putter,Carduelis carduelis,Fringillidae,Passeriformes,Purmerend,N-Holland,52.49,4.96,0,TRUE
+583,,AS20202442,DWHC,01-02-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Odoorn,Drenthe,52.85,6.85,0,TRUE
+584,,AS20202439,DWHC,02-01-2021,DateFound,Common Buzzard,Buizerd,Buteo buteo,Accipitridae,Accipitriformes,Noardeast-Fryslan,Friesland,53.4,6.14,0,TRUE
+585,,AS20202468,DWHC,04-02-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Culemborg,Gelderland,51.96,5.21,0,TRUE
+586,,AS20202462,DWHC,10-02-2021,DateFound,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,Wormerland,N-Holland,52.54,4.83,0,TRUE
+587,,AS20202471,DWHC,11-02-2021,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Utrecht,Utrecht,52.09,5.18,0,TRUE
+588,,AS20202465,DWHC,10-02-2021,DateFound,European Green Woodpecker,Groene Specht,Picus viridis,Picidae,Piciformes,St. michielsgestel,Brabant,51.64,5.36,0,TRUE
+589,,AS20202459,DWHC,14-02-2021,DateFound,Great Egret,Grote Zilverreiger,Ardea alba,Ardeidae,Pelecaniformes,Het hogeland,Groningen,53.33,6.34,0,TRUE
+590,,AS20202456,DWHC,14-02-2021,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Tilburg,Brabant,51.58,5,0,TRUE
+591,,AS20202495,DWHC,15-02-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Veere,Zeeland,51.57,3.5,0,TRUE
+592,,AS20202474,DWHC,15-02-2021,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Veere,Zeeland,51.57,3.5,0,TRUE
+593,,AS20202498,DWHC,17-02-2021,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Valkenswaard,Brabant,51.31,5.47,0,TRUE
+594,,AS20202492,DWHC,25-02-2021,DateFound,Tawny Owl,Bosuil,Strix aluco,Strigidae,Strigiformes,Utrechtse Heuvelrug,Utrecht,52.04,5.31,0,TRUE
+595,,AS20202483,DWHC,04-03-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Oss,Brabant,51.76,5.51,0,TRUE
+596,,AS20202516,DWHC,08-03-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Oosterhout,Brabant,51.62,4.84,0,TRUE
+597,,AS20202519,DWHC,08-03-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Oosterhout,Brabant,51.62,4.84,0,TRUE
+598,,AS20210024,DWHC,08-03-2021,DateFound,Eurasian Jay,Gaai,Garrulus glandarius,Corvidae,Passeriformes,Alkmaar,N-Holland,52.63,4.75,0,TRUE
+599,,AS20210018,DWHC,08-03-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Son en Breugel,Brabant,51.53,5.49,0,TRUE
+600,,AS20210027,DWHC,10-03-2021,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Waadhoeke,Friesland,53.23,5.68,0,TRUE
+601,,AS20210012,DWHC,14-03-2021,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Montfoort,Utrecht,52.06,4.91,0,TRUE
+602,,AS20210045,DWHC,14-03-2021,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Laarbeek,Brabant,51.54,5.57,0,TRUE
+603,,AS20210030,DWHC,17-03-2021,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Arnhem,Gelderland,51.96,5.87,0,TRUE
+604,,AS20210009,DWHC,18-03-2021,DateFound,Brambling,Keep,Fringilla montifringilla,Fringillidae,Passeriformes,Wageningen,Gelderland,51.99,5.69,0,TRUE
+605,,AS20210078,DWHC,21-03-2021,DateFound,Goldcrest,Goudhaan,Regulus regulus,Regulidae,Passeriformes,Alphen aan den Rijn,Z-Holland,52.13,4.66,0,TRUE
+606,,AS20210072,DWHC,23-03-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Velsen,N-Holland,52.46,4.65,0,TRUE
+607,,AS20210051,DWHC,20-03-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Den haag,Z-Holland,52.06,4.35,0,TRUE
+608,,AS20210075,DWHC,23-03-2021,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Houten,Utrecht,52.02,5.18,0,TRUE
+609,,AS20210054,DWHC,20-03-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Den haag,Z-Holland,52.06,4.35,0,TRUE
+610,,AS20210060,DWHC,24-03-2021,DateFound,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,Westerland,N-Holland,52.93,4.98,0,TRUE
+611,,AS20210063,DWHC,24-03-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Uden,Brabant,51.66,5.63,0,TRUE
+612,,AS20210086,DWHC,29-03-2021,DateFound,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Hoeksche Waard,Z-Holland,51.73,4.43,0,TRUE
+613,,AS20210089,DWHC,30-03-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Waalre,Brabant,51.4,5.49,0,TRUE
+614,,AS20210100,DWHC,30-03-2021,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Heerenveen,Friesland,53.47,5.66,0,TRUE
+615,,AS20210114,DWHC,01-04-2021,DateFound,White Stork,Ooievaar,Ciconia ciconia,Ciconiidae,Ciconiiformes,Loosdrecht,N-Holland,52.21,5.11,0,TRUE
+616,,AS20210135,DWHC,07-04-2021,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Dinkelland,Overijssel,52.35,6.82,0,TRUE
+617,,AS20210108,DWHC,06-04-2021,DateFound,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Leudal,Limburg,51.15,5.78,0,TRUE
+618,,AS20210141,DWHC,06-04-2021,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Breda,Brabant,51.62,4.63,0,TRUE
+619,,AS20210111,DWHC,06-04-2021,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Breda,Brabant,51.62,4.63,0,TRUE
+620,,AS20210132,DWHC,06-04-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Hollands Kroon,N-Holland,52.91,4.97,0,TRUE
+621,,AS20210129,DWHC,19-04-2021,DateFound,Swan,Zwaan,Cygnus (genus),Anatidae,Anseriformes,Budel,Brabant,51.68,5.07,0,TRUE
+622,,AS20210123,DWHC,19-04-2021,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Amersfoort,Utrecht,52.14,5.37,0,TRUE
+623,,AS20210197,DWHC,19-04-2021,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Haarlem,N-Holland,52.33,4.61,0,TRUE
+624,,AS20210147,DWHC,22-04-2021,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Baarn,Utrecht,52.1,5.22,0,TRUE
+625,,AS20210150,DWHC,26-04-2021,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Utrecht,Utrecht,52.09,5.14,0,TRUE
+626,,AS20210185,DWHC,27-04-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Rotterdam,Z-Holland,51.96,4.56,0,TRUE
+627,,AS20210164,DWHC,30-04-2021,DateFound,Mistle Thrush,Grote Lijster,Turdus viscivorus,Turdidae,Passeriformes,Goeree-Overflakkee,Z-Holland,51.74,4.1,0,TRUE
+628,,AS20210158,DWHC,28-04-2021,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Venlo,Limburg,51.37,6.13,0,TRUE
+629,,AS20210167,DWHC,28-04-2021,DateFound,Ring-necked Pheasant,Fazant,Phasianus colchicus,Phasianidae,Galliformes,Ridderkerk,Z-Holland,51.87,4.6,0,TRUE
+630,,AS20210173,DWHC,03-05-2021,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Alphen aan den Rijn,Z-Holland,52.13,4.59,0,TRUE
+631,,AS20210176,DWHC,06-05-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Goeree-Overflakkee,Z-Holland,51.74,4.1,0,TRUE
+632,,AS20210182,DWHC,08-05-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Den haag,Z-Holland,52.03,4.39,0,TRUE
+633,,AS20210179,DWHC,11-05-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nijkerk,Gelderland,52.19,5.54,0,TRUE
+634,,AS20210224,DWHC,25-05-2021,DateFound,Tawny Owl,Bosuil,Strix aluco,Strigidae,Strigiformes,Stichtse Vecht,Utrecht,52.21,5.03,0,TRUE
+635,,AS20210212,DWHC,26-05-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Putten,Gelderland,52.25,5.61,0,TRUE
+636,,AS20210218,DWHC,26-05-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Putten,Gelderland,52.25,5.61,0,TRUE
+637,,AS20210215,DWHC,26-05-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Putten,Gelderland,52.25,5.61,0,TRUE
+638,,AS20210316,DWHC,31-05-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Eersel,Brabant,51.46,5.34,0,TRUE
+639,,AS20210245,DWHC,01-06-2021,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Haarlemmermeer,N-Holland,52.35,4.68,0,TRUE
+640,,AS20210230,DWHC,02-06-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Houten,Utrecht,52.02,5.18,0,TRUE
+641,,AS20210309,DWHC,01-06-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.48,5.43,0,TRUE
+642,,AS20210242,DWHC,02-06-2021,DateFound,Tawny Owl,Bosuil,Strix aluco,Strigidae,Strigiformes,Loon op Zand,Brabant,51.63,5.07,0,TRUE
+643,,AS20210285,DWHC,08-06-2021,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Arnhem,Gelderland,51.82,5.87,0,TRUE
+644,,AS20210364,DWHC,18-05-2021,DateFound,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Doetinchem,Gelderland,51.97,6.35,0,TRUE
+645,,AS20210262,DWHC,09-06-2021,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Hellevoetsluis,Z-Holland,51.84,4.13,0,TRUE
+646,,AS20210396,DWHC,13-06-2021,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Bergen op Zoom,Brabant,51.47,4.28,0,TRUE
+647,,AS20210297,DWHC,12-06-2021,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Alphen aan den Rijn,Z-Holland,52.13,4.65,0,TRUE
+648,,AS20210314,DWHC,14-06-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Blaricum,N-Holland,52.28,5.26,0,TRUE
+649,,AS20210277,DWHC,15-06-2021,DateFound,White Stork,Ooievaar,Ciconia ciconia,Ciconiidae,Ciconiiformes,Lochem,Gelderland,52.21,6.23,0,TRUE
+650,,AS20210331,DWHC,16-06-2021,DateFound,Middle Spotted Woodpecker,Middelste Bonte Specht,Dendrocoptes medius,Picidae,Piciformes,Rotterdam,Z-Holland,51.92,4.44,0,TRUE
+651,,AS20210307,DWHC,15-06-2021,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Rotterdam,Z-Holland,51.61,5.54,0,TRUE
+652,,AS20210562,DWHC,20-06-2021,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Hellevoetsluis,Z-Holland,51.84,4.13,0,TRUE
+653,,AS20210497,DWHC,18-06-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Lochem,Gelderland,52.16,6.3,0,TRUE
+654,,AS20210507,DWHC,22-06-2021,DateFound,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Bronckhorst,Gelderland,52.08,6.34,0,TRUE
+655,,AS20210373,DWHC,24-06-2021,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Brielle,Z-Holland,51.9,4.17,0,TRUE
+656,,AS20210386,DWHC,24-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Utrecht,Utrecht,52.12,5,0,TRUE
+657,,AS20210532,DWHC,02-07-2021,DateFound,Rock Pigeon,Rotsduif,Columba livia domestica,Columbidae,Columbiformes,Rotterdam,Z-Holland,51.93,4.49,0,TRUE
+658,,AS20210424,DWHC,06-07-2021,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Vught,Brabant,51.65,5.29,0,TRUE
+659,,AS20210537,DWHC,03-07-2021,DateFound,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Amersfoort,Utrecht,52.19,5.37,0,TRUE
+660,,AS20210414,DWHC,07-07-2021,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Ede,Gelderland,52.05,5.57,0,TRUE
+661,,AS20210557,DWHC,07-07-2021,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Ede,Gelderland,52.05,5.57,0,TRUE
+662,,AS20210588,DWHC,07-07-2021,DateFound,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Veenendaal,Utrecht,52.05,5.57,0,TRUE
+663,,AS20210493,DWHC,06-07-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Loon op Zand,Brabant,51.62,5.08,0,TRUE
+664,,AS20210449,DWHC,07-07-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rhenen,Utrecht,51.96,5.58,0,TRUE
+665,,AS20210542,DWHC,07-07-2021,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Tytsjerksteradiel,Friesland,53.18,6.06,0,TRUE
+666,,AS20210469,DWHC,11-07-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ede,Gelderland,52.12,5.75,0,TRUE
+667,,AS20210459,DWHC,13-07-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Meijerstad,Brabant,51.55,5.42,0,TRUE
+668,,AS20210419,DWHC,12-07-2021,DateFound,Black Redstart,Zwarte Roodstaart,Phoenicurus ochruros,Muscicapidae,Passeriformes,Emmen,Drenthe,52.76,6.87,0,TRUE
+669,,AS20210593,DWHC,13-07-2021,DateFound,Domestic Goose,Grauwe Gans,Anser anser,Anatidae,Anseriformes,Apeldoorn,Gelderland,52.25,5.77,0,TRUE
+670,,AS20210502,DWHC,13-07-2021,DateFound,Domestic Goose,Grauwe Gans,Anser anser,Anatidae,Anseriformes,Apeldoorn,Gelderland,52.25,5.77,0,TRUE
+671,,AS20210409,DWHC,14-07-2021,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Utrecht,Utrecht,52.09,5.17,0,TRUE
+672,,AS20210598,DWHC,14-07-2021,DateFound,Hawfinch,Appelvink,Coccothraustes coccothraustes,Fringillidae,Passeriformes,Boxmeer,Brabant,51.64,5.95,0,TRUE
+673,,AS20210577,DWHC,14-07-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Boxmeer,Brabant,51.64,5.95,0,TRUE
+674,,AS20210567,DWHC,14-07-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Apeldoorn,Gelderland,52.22,5.98,0,TRUE
+675,,AS20210439,DWHC,17-07-2021,DateFound,Gadwall,Krakeend,Mareca strepera,Anatidae,Anseriformes,Lopik,Utrecht,51.98,4.88,0,TRUE
+676,,AS20210434,DWHC,20-07-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Zeist,Utrecht,52.07,5.27,0,TRUE
+677,,AS20210478,DWHC,21-07-2021,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Utrechtse Heuvelrug,Utrecht,52.02,5.39,0,TRUE
+678,,AS20210552,DWHC,11-07-2021,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Noardeast-Fryslan,Friesland,53.44,5.64,0,TRUE
+679,,AS20210644,DWHC,27-07-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Reusel-De Mierden,Brabant,51.39,5.13,0,TRUE
+680,,AS20210624,DWHC,28-07-2021,DateFound,Hawfinch,Appelvink,Coccothraustes coccothraustes,Fringillidae,Passeriformes,Cranendonck,Brabant,51.27,5.59,0,TRUE
+681,,AS20210603,DWHC,29-07-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oude ijsselstreek,Gelderland,51.87,6.44,0,TRUE
+682,,AS20210649,DWHC,31-07-2021,DateFound,Common Kestrel,Torenvalk,Falco tinnunculus,Falconidae,Falconiformes,Tubbergen,Overijssel,52.37,6.82,0,TRUE
+683,,AS20210748,DWHC,04-08-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Berkelland,Gelderland,52.14,6.62,0,TRUE
+684,,AS20210768,DWHC,07-08-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Reusel-De Mierden,Brabant,51.39,5.13,0,TRUE
+685,,AS20210679,DWHC,05-08-2021,DateFound,Domestic Goose,Grauwe Gans,Anser anser,Anatidae,Anseriformes,Oostburg,Zeeland,51.3,3.46,0,TRUE
+686,,AS20210714,DWHC,12-08-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,De bilt,Utrecht,52.13,5.22,0,TRUE
+687,,AS20210733,DWHC,12-08-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Rhenen,Utrecht,51.96,5.58,0,TRUE
+688,,AS20210719,DWHC,10-08-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Peel en Maas,Limburg,51.29,6.05,0,TRUE
+689,,AS20210683,DWHC,12-08-2021,DateFound,Black-headed Gull,Kokmeeuw,Chroicocephalus ridibundus,Laridae,Charadriiformes,Sluis,Zeeland,51.39,3.62,0,TRUE
+690,,AS20210657,DWHC,12-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Sluis,Zeeland,51.39,3.62,0,TRUE
+691,,AS20210691,DWHC,12-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Sluis,Zeeland,51.39,3.62,0,TRUE
+692,,AS20210666,DWHC,12-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Sluis,Zeeland,51.39,3.62,0,TRUE
+693,,AS20210670,DWHC,12-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Sluis,Zeeland,51.39,3.62,0,TRUE
+694,,AS20210758,DWHC,10-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Flushing,Zeeland,51.44,3.57,0,TRUE
+695,,AS20210687,DWHC,12-08-2021,DateFound,Barnacle Goose,Brandgans,Branta leucopsis,Anatidae,Anseriformes,Sluis,Zeeland,51.39,3.62,0,TRUE
+696,,AS20210710,DWHC,18-08-2021,DateFound,Stock Dove,Holenduif,Columba oenas,Columbidae,Columbiformes,Almere,Flevoland,52.37,5.26,0,TRUE
+697,,AS20210700,DWHC,18-08-2021,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Sluis,Zeeland,51.39,3.57,0,TRUE
+698,,AS20210675,DWHC,17-08-2021,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Sittard,Limburg,51,5.88,0,TRUE
+699,,AS20210920,DWHC,20-08-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Bunnik,Utrecht,52.07,5.18,0,TRUE
+700,,AS20210952,DWHC,20-08-2021,DateFound,Black-crowned Night Heron,Kwak,Nycticorax nycticorax,Ardeidae,Pelecaniformes,Rotterdam,Z-Holland,51.93,4.44,0,TRUE
+701,,AS20210905,DWHC,24-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Breskens,Zeeland,51.39,3.57,0,TRUE
+702,,AS20210883,DWHC,25-08-2021,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Wassenaar,Z-Holland,52.13,4.39,0,TRUE
+703,,AS20210872,DWHC,24-08-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Druten,Gelderland,51.89,5.6,0,TRUE
+704,,AS20210985,DWHC,26-08-2021,DateFound,Eurasian Coot,Meerkoet,Fulica atra,Rallidae,Gruiformes,Deventer,Overijssel,52.25,6.14,0,TRUE
+705,,AS20210888,DWHC,30-08-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Geldrop,Brabant,51.42,5.58,0,TRUE
+706,,AS20210914,DWHC,30-08-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nieuwegein,Utrecht,52.04,5.12,1,TRUE
+707,,AS20210893,DWHC,06-09-2021,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Loon op Zand,Brabant,51.62,5.08,0,TRUE
+708,,AS20210957,DWHC,07-09-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Slijk Ewijk,Gelderland,51.89,5.81,0,TRUE
+709,,AS20210941,DWHC,08-09-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Krommenie,N-Holland,52.51,4.77,0,TRUE
+710,,AS20210946,DWHC,10-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Vlissingen,Zeeland,51.44,3.57,0,TRUE
+711,,AS20210854,DWHC,10-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Vlissingen,Zeeland,51.44,3.57,0,TRUE
+712,,AS20210857,DWHC,10-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Vlissingen,Zeeland,51.44,3.57,0,TRUE
+713,,AS20210834,DWHC,10-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Vlissingen,Zeeland,51.44,3.57,0,TRUE
+714,,AS20210949,DWHC,12-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Ritthem,Zeeland,51.5,3.61,0,TRUE
+715,,AS20210811,DWHC,12-08-2021,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Ritthem,Zeeland,51.5,3.61,0,TRUE
+716,,AS20210860,DWHC,12-08-2021,DateFound,Black-headed Gull,Kokmeeuw,Chroicocephalus ridibundus,Laridae,Charadriiformes,Hooge Platen,Zeeland,51.39,3.62,0,TRUE
+717,,AS20210865,DWHC,12-08-2021,DateFound,Eurasian Oystercatcher,Scholekster,Haematopus ostralegus,Haematopodidae,Charadriiformes,Hooge Platen,Zeeland,51.4,3.62,0,TRUE
+718,,AS20210938,DWHC,12-08-2021,DateFound,Eurasian Oystercatcher,Scholekster,Haematopus ostralegus,Haematopodidae,Charadriiformes,Hooge Platen,Zeeland,51.4,3.62,0,TRUE
+719,,AS20210880,DWHC,12-08-2021,DateFound,Common Tern,Visdief,Sterna hirundo,Laridae,Charadriiformes,Hooge Platen,Zeeland,51.39,3.62,0,TRUE
+720,,AS20210977,DWHC,12-09-2021,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Tilburg,Brabant,51.56,5.09,0,TRUE
+721,,AS20211005,DWHC,14-09-2021,DateFound,Tawny Owl,Bosuil,Strix aluco,Strigidae,Strigiformes,Maarn,Utrecht,52.06,5.35,0,TRUE
+722,,AS20210829,DWHC,19-09-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wanssum,Limburg,51.54,6.09,1,TRUE
+723,,AS20210814,DWHC,21-09-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Rotterdam,Z-Holland,51.92,4.46,0,TRUE
+724,,AS20210819,DWHC,21-09-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Rotterdam,Z-Holland,51.92,4.46,0,TRUE
+725,,AS20210824,DWHC,22-09-2021,DateFound,Ring-necked Pheasant,Fazant,Phasianus colchicus,Phasianidae,Galliformes,Giessen,Brabant,51.78,5.04,0,TRUE
+726,,AS20210849,DWHC,23-09-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bennekom,Gelderland,51.99,5.69,0,TRUE
+727,,AS20211220,DWHC,05-10-2021,DateFound,Eurasian Sparrowhawk,Sperwer,Accipiter nisus,Accipitridae,Accipitriformes,Braamt,Gelderland,51.92,6.25,0,TRUE
+728,,AS20211237,DWHC,06-10-2021,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Alkmaar,N-Holland,52.63,4.75,0,TRUE
+729,,AS20211197,DWHC,11-10-2021,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Dongen,Brabant,51.63,4.93,0,TRUE
+730,,AS20211125,DWHC,13-10-2021,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Willemstad,Brabant,51.69,4.45,0,TRUE
+731,,AS20211154,DWHC,22-10-2021,DateFound,Domestic Goose,Grauwe Gans,Anser anser,Anatidae,Anseriformes,Bilthoven,Utrecht,52.13,5.21,0,TRUE
+732,,AS20211105,DWHC,24-10-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ede,Gelderland,52.01,5.79,0,TRUE
+733,,AS20211192,DWHC,26-10-2021,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Wadenoijen,Gelderland,51.87,5.37,0,TRUE
+734,,AS20211091,DWHC,25-10-2021,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Wijchen,Gelderland,51.81,5.66,0,TRUE
+735,,AS20211187,DWHC,25-10-2021,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Wijchen,Gelderland,51.81,5.66,0,TRUE
+736,,AS20211063,DWHC,03-11-2021,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Heiloo,N-Holland,52.6,4.72,0,TRUE
+737,,AS20211168,DWHC,04-11-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Amsterdam,N-Holland,52.34,4.86,0,TRUE
+738,,AS20211073,DWHC,04-11-2021,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Wenum-Wiesel,Gelderland,52.26,6.02,0,TRUE
+739,,AS20211248,DWHC,07-11-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Groningen,Groningen,53.2,6.58,0,TRUE
+740,,AS20211253,DWHC,08-11-2021,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Zaandam,N-Holland,52.46,4.8,0,TRUE
+741,,AS20220054,DWHC,09-11-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Warten,Friesland,53.15,5.9,0,TRUE
+742,,AS20220035,DWHC,10-11-2021,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Rosmalen,Brabant,51.71,5.35,0,TRUE
+743,,AS20220020,DWHC,09-11-2021,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Uffelte,Drenthe,52.84,6.35,0,TRUE
+744,,AS20220040,DWHC,17-11-2021,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Jubbega,Friesland,52.99,6.11,0,TRUE
+745,,AS20220025,DWHC,23-11-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wilp,Gelderland,52.22,6.15,0,TRUE
+746,,AS20220010,DWHC,05-12-2021,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Lochem,Gelderland,52.16,6.4,0,TRUE
+747,,AS20220001,DWHC,11-12-2021,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Spaarndam,N-Holland,52.41,4.69,0,TRUE
+748,,AS20220006,DWHC,16-12-2021,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Egmond aan Zee,N-Holland,52.62,4.63,0,TRUE
+749,,AS20220030,DWHC,22-12-2021,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Houten,Utrecht,52.02,5.2,0,TRUE
+750,,AS20220372,DWHC,09-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hellendoorn,Overijssel,52.38,6.46,0,TRUE
+751,,AS20220402,DWHC,23-01-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Voorhout,Z-Holland,52.22,4.49,0,TRUE
+752,,AS20220407,DWHC,23-01-2022,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Enschede,Overijssel,52.21,6.94,0,TRUE
+753,,AS20220417,DWHC,23-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.34,5.23,0,TRUE
+754,,AS20220367,DWHC,25-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bleiswijk,Z-Holland,52.01,4.53,0,TRUE
+755,,AS20220357,DWHC,26-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bilthoven,Utrecht,52.13,5.21,0,TRUE
+756,,AS20220392,DWHC,26-01-2022,DateFound,Brambling,Keep,Fringilla montifringilla,Fringillidae,Passeriformes,Hekelingen,Z-Holland,51.82,4.34,0,TRUE
+757,,AS20220382,DWHC,28-01-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Egchel,Limburg,51.31,5.97,0,TRUE
+758,,AS20220412,DWHC,28-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Vught,Brabant,51.64,5.27,0,TRUE
+759,,AS20220377,DWHC,27-01-2022,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Nijmegen,Gelderland,51.84,5.8,0,TRUE
+760,,AS20220397,DWHC,30-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Amstelveen,N-Holland,52.3,4.88,0,TRUE
+761,,AS20220362,DWHC,30-01-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Kuinre,Overijssel,52.81,5.81,0,TRUE
+762,,AS20220422,DWHC,30-01-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Mantgum,Friesland,53.13,5.72,0,TRUE
+763,,AS20220387,DWHC,31-01-2022,DateFound,Yellowhammer,Geelgors,Emberiza citrinella,Fringillidae,Passeriformes,Noordwolde,Friesland,52.91,6.13,0,TRUE
+764,,AS20220427,DWHC,01-02-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.25,4.51,0,TRUE
+765,,AS20220597,DWHC,08-02-2022,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Ijmuiden,N-Holland,52.46,4.55,0,TRUE
+766,,AS20220617,DWHC,08-02-2022,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Ijmuiden,N-Holland,52.46,4.55,0,TRUE
+767,,AS20220632,DWHC,07-02-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.33,5.24,0,TRUE
+768,,AS20220585,DWHC,08-02-2022,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Huis ter Heide,Utrecht,52.12,5.26,0,TRUE
+769,,AS20220570,DWHC,09-02-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wasperveen,Drenthe,52.83,6.24,0,TRUE
+770,,AS20220575,DWHC,09-02-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Lichtenvoorde,Gelderland,52.01,6.56,0,TRUE
+771,,AS20220588,DWHC,09-02-2022,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Lichtenvoorde,Gelderland,52.01,6.56,0,TRUE
+772,,AS20220580,DWHC,13-02-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Alphen aan den Rijn,Z-Holland,52.12,4.63,0,TRUE
+773,,AS20220592,DWHC,11-02-2022,DateFound,Fieldfare,Kramsvogel,Turdus pilaris,Turdidae,Passeriformes,Barchem,Gelderland,52.13,6.44,0,TRUE
+774,,AS20220622,DWHC,11-02-2022,DateFound,Fieldfare,Kramsvogel,Turdus pilaris,Turdidae,Passeriformes,Barchem,Gelderland,52.13,6.44,0,TRUE
+775,,AS20220637,DWHC,14-02-2022,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Wijster,Drenthe,52.81,6.55,0,TRUE
+776,,AS20220627,DWHC,14-02-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oldenzaal,Overijssel,52.31,6.91,0,TRUE
+777,,AS20220657,DWHC,22-02-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Amersfoort,Utrecht,52.2,5.43,0,TRUE
+778,,AS20202201,DWHC,07-12-2020,DateFound,Rock Pigeon,Sierduif,Columba livia domestica,Columbidae,Columbiformes,Noardeast-Fryslan,Friesland,53.33,6,0,TRUE
+779,,AS20220607,DWHC,24-02-2022,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Nieuwegein,Utrecht,52.01,5.09,0,TRUE
+780,,AS20220662,DWHC,23-03-2022,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Middelburg,Zeeland,52.44,4.56,0,TRUE
+781,,AS20220647,DWHC,23-02-2022,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Middelburg,Zeeland,52.44,4.56,0,TRUE
+782,,AS20220612,DWHC,27-02-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Zwolle,Overijssel,52.48,6.11,0,TRUE
+783,,AS20220642,DWHC,25-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Leusden,Utrecht,52.12,5.4,0,TRUE
+784,,AS20220602,DWHC,25-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Leusden,Utrecht,52.12,5.4,0,TRUE
+785,,AS20220652,DWHC,28-02-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hoogeveen,Drenthe,52.72,6.45,0,TRUE
+786,,AS20220877,DWHC,01-03-2022,DateFound,Common Murre,Zeekoet,Uria aalge,Alcidae,Charadriiformes,Middelburg,Zeeland,51.57,3.49,0,TRUE
+787,,AS20220892,DWHC,02-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Linden,Brabant,51.75,5.83,0,TRUE
+788,,AS20220887,DWHC,03-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Odijk,Utrecht,52.05,5.23,0,TRUE
+789,,AS20220902,DWHC,05-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Maartensdijk,Utrecht,52.85,6.9,0,TRUE
+790,,AS20220922,DWHC,07-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Hardenberg,Overijssel,52.56,6.61,0,TRUE
+791,,AS20220882,DWHC,08-03-2022,DateFound,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Utrecht,Utrecht,52.1,5.06,0,TRUE
+792,,AS20220907,DWHC,04-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Diemen,N-Holland,52.34,5,0,TRUE
+793,,AS20220917,DWHC,09-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Den bosch,Brabant,51.72,5.28,0,TRUE
+794,,AS20220912,DWHC,09-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Den bosch,Brabant,51.72,5.28,0,TRUE
+795,,AS20220962,DWHC,09-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Schiedam,Z-Holland,51.94,4.38,0,TRUE
+796,,AS20220957,DWHC,09-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Schiedam,Z-Holland,51.94,4.38,0,TRUE
+797,,AS20220972,DWHC,09-03-2022,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Lelystad,Flevoland,52.51,5.45,0,TRUE
+798,,AS20220947,DWHC,10-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,De lutte,Overijssel,52.31,7,0,TRUE
+799,,AS20220992,DWHC,13-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Delft,Z-Holland,52.01,4.34,0,TRUE
+800,,AS20220997,DWHC,15-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Dronten,Flevoland,52.53,5.68,0,TRUE
+801,,AS20220987,DWHC,15-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Dronten,Flevoland,52.53,5.68,0,TRUE
+802,,AS20221002,DWHC,15-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zwolle,Overijssel,52.53,6.1,0,TRUE
+803,,AS20220977,DWHC,16-03-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Capelle aan den Ijssel,Z-Holland,51.93,4.61,0,TRUE
+804,,AS20220982,DWHC,15-03-2022,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Almere,Flevoland,52.38,5.26,0,TRUE
+805,,AS20220952,DWHC,16-03-2022,DateFound,Yellowhammer,Geelgors,Emberiza citrinella,Fringillidae,Passeriformes,Hijken,Drenthe,52.9,6.46,0,TRUE
+806,,AS20221007,DWHC,16-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Slagharen,Overijssel,52.63,6.56,0,TRUE
+807,,AS20221057,DWHC,28-03-2022,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Valkenswaard,Brabant,51.36,5.43,0,TRUE
+808,,AS20221072,DWHC,28-03-2022,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Valkenswaard,Brabant,51.36,5.43,0,TRUE
+809,,AS20221066,DWHC,29-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Breda,Brabant,51.62,4.74,0,TRUE
+810,,AS20221061,DWHC,31-03-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Norg,Drenthe,53.06,6.44,0,TRUE
+811,,AS20221193,DWHC,12-04-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Giessenburg,Z-Holland,51.85,4.9,0,TRUE
+812,,AS20221171,DWHC,12-04-2022,DateFound,Hawfinch,Appelvink,Coccothraustes coccothraustes,Fringillidae,Passeriformes,Holten,Overijssel,52.29,6.41,0,TRUE
+813,,AS20221161,DWHC,13-04-2022,DateFound,Northern Lapwing,Kievit,Vanellus vanellus,Charadriidae,Charadriiformes,Hengelo,Overijssel,52.27,6.79,0,TRUE
+814,,AS20221166,DWHC,18-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Sappemeer,Gelderland,53.17,6.78,0,TRUE
+815,,AS20221129,DWHC,19-04-2022,DateFound,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,Kampen,Overijssel,52.55,5.89,0,TRUE
+816,,AS20221176,DWHC,19-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.39,5.3,0,TRUE
+817,,AS20221207,DWHC,19-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.34,5.19,0,TRUE
+818,,AS20221153,DWHC,19-04-2022,DateFound,Great Cormorant,Aalscholver,Phalacrocorax carbo,Phalacrocoracidae,Suliformes,Luttelgeest,Flevoland,52.78,5.84,0,TRUE
+819,,AS20221181,DWHC,20-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.34,5.21,0,TRUE
+820,,AS20221221,DWHC,26-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Fleringen,Overijssel,52.38,6.72,0,TRUE
+821,,AS20221217,DWHC,26-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Fleringen,Overijssel,52.38,6.72,0,TRUE
+822,,AS20221213,DWHC,26-04-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Harbrinkhoek,Overijssel,52.38,6.72,0,TRUE
+823,,AS20221145,DWHC,02-05-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.36,5.26,0,TRUE
+824,,AS20221135,DWHC,02-05-2022,DateFound,Common Kestrel,Torenvalk,Falco tinnunculus,Falconidae,Falconiformes,Albergen,Overijssel,52.36,6.76,0,TRUE
+825,,AS20221140,DWHC,03-05-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.44,5.52,0,TRUE
+826,,AS20221150,DWHC,09-05-2022,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Boekel,Brabant,51.6,5.69,0,TRUE
+827,,AS20221158,DWHC,12-05-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.1,5.12,0,TRUE
+828,,AS20221186,DWHC,23-05-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Leiden,Z-Holland,52.18,4.51,0,TRUE
+829,,AS20221288,DWHC,27-05-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Doorwerth,Gelderland,51.98,5.78,0,TRUE
+830,,AS20221333,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+831,,AS20221326,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+832,,AS20221305,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+833,,AS20221340,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+834,,AS20221277,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+835,,AS20221247,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+836,,AS20221314,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+837,,AS20221296,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+838,,AS20221232,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+839,,AS20221267,DWHC,25-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+840,,AS20221237,DWHC,05-06-2021,DateFound,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,4.99,0,TRUE
+841,,AS20221309,DWHC,07-06-2022,DateFound,Lesser Spotted Woodpecker,Kleine Bonte Specht,Dryobates minor,Picidae,Piciformes,Arnhem,Gelderland,51.96,5.87,0,TRUE
+842,,AS20221291,DWHC,08-06-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Berlicum,Brabant,51.68,5.39,0,TRUE
+843,,AS20221252,DWHC,09-06-2022,DateFound,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Berkel-Enschot,Brabant,51.58,5.14,0,TRUE
+844,,AS20221242,DWHC,15-06-2022,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Leusden,Utrecht,52.12,5.41,0,TRUE
+845,,AS20221227,DWHC,15-06-2022,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Leusden,Utrecht,52.12,5.41,0,TRUE
+846,,AS20221301,DWHC,14-06-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Arnhem,Gelderland,52,5.95,0,TRUE
+847,,AS20221319,DWHC,14-06-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Groningen,Groningen,53.21,6.56,0,TRUE
+848,,AS20221257,DWHC,14-06-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Ermelo,Gelderland,52.31,5.6,0,TRUE
+849,,AS20221272,DWHC,15-06-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heerlen,Limburg,50.88,5.98,0,TRUE
+850,,AS20221571,DWHC,23-06-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Lobith,Gelderland,51.86,6.12,0,TRUE
+851,,AS20221224,DWHC,26-06-2022,DateFound,Long-eared Owl,Ransuil,Asio otus,Strigidae,Strigiformes,Wormer,N-Holland,52.5,4.82,0,TRUE
+852,,AS20221345,DWHC,28-06-2022,DateFound,Eurasian Tree Sparrow,Ringmus,Passer montanus,Passeridae,Passeriformes,Eastermar,Friesland,53.18,6.08,0,TRUE
+853,,AS20221589,DWHC,30-06-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Maarheeze,Brabant,51.31,5.62,0,TRUE
+854,,AS20221702,DWHC,04-07-2022,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Sneek,Friesland,53.04,5.67,0,TRUE
+855,,AS20221647,DWHC,04-07-2022,DateFound,Mallard,Wilde Eend,Anas platyrhynchos,Anatidae,Anseriformes,Veenendaal,Utrecht,52.02,5.63,0,TRUE
+856,,AS20221692,DWHC,06-07-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Utrecht,Utrecht,52.13,5.11,0,TRUE
+857,,AS20221579,DWHC,11-07-2022,DateFound,Common Kestrel,Torenvalk,Falco tinnunculus,Falconidae,Falconiformes,Bergen,Limburg,51.6,6.03,0,TRUE
+858,,AS20221602,DWHC,12-07-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Sijbekarpsel,N-Holland,52.71,5,0,TRUE
+859,,AS20221577,DWHC,18-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Halsteren,Brabant,51.53,4.27,0,TRUE
+860,,AS20221584,DWHC,18-07-2022,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Midwoud,N-Holland,52.71,5.07,0,TRUE
+861,,AS20221594,DWHC,19-07-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Naaldwijk,Z-Holland,52,4.22,0,TRUE
+862,,AS20221607,DWHC,21-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Helenaveen,Brabant,51.39,5.92,0,TRUE
+863,,AS20221642,DWHC,21-07-2022,DateFound,Montagu's Harrier,Grauwe Kiekendief,Circus pygargus,Accipitridae,Accipitriformes,Drieborg,Groningen,53.22,7.21,0,TRUE
+864,,AS20221697,DWHC,25-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Elst,Gelderland,51.91,5.83,0,TRUE
+865,,AS20221670,DWHC,24-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.48,5.43,1,TRUE
+866,,AS20221712,DWHC,25-07-2022,DateFound,Western House-Martin,Huiszwaluw,Delichon urbicum,Hirundinidae,Passeriformes,Termunten,Groningen,53.3,7.08,0,TRUE
+867,,AS20221682,DWHC,25-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hardenberg,Overijssel,52.58,6.6,0,TRUE
+868,,AS20221717,DWHC,25-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Grijpskerk,Groningen,53.26,6.3,0,TRUE
+869,,AS20221687,DWHC,26-07-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Almere,Flevoland,52.35,5.22,0,TRUE
+870,,AS20221707,DWHC,27-07-2022,DateFound,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Amsterdam,N-Holland,52.36,4.83,0,TRUE
+871,,AS20221627,DWHC,28-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.45,5.53,1,TRUE
+872,,AS20221622,DWHC,31-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Utrecht,Utrecht,52.07,5.09,0,TRUE
+873,,AS20221722,DWHC,01-08-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Klein Zundert,Brabant,51.55,4.58,1,TRUE
+874,,AS20221637,DWHC,04-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hoogerheide,Brabant,51.43,4.31,1,TRUE
+875,,AS20221736,DWHC,18-04-2022,DateFound,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,Ede,Gelderland,52.08,5.75,0,TRUE
+876,,AS20221741,DWHC,20-04-2022,DateFound,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,Bilthoven,Utrecht,52.11,5.22,0,TRUE
+877,,AS20221731,DWHC,14-04-2022,DateFound,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,Putten,Gelderland,52.25,5.52,0,TRUE
+878,,AS20221746,DWHC,11-04-2022,DateFound,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,Putten,Gelderland,52.25,5.52,0,TRUE
+879,,AS20221751,DWHC,10-07-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Naarden,N-Holland,51.98,5.74,1,TRUE
+880,,AS20221726,DWHC,05-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Best,Brabant,51.51,5.4,0,TRUE
+881,,AS20221660,DWHC,08-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Den bosch,Brabant,51.69,5.3,1,TRUE
+882,,AS20221657,DWHC,04-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Klein Zundert,Brabant,51.47,4.65,1,TRUE
+883,,AS20221617,DWHC,08-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Drunen,Brabant,51.69,5.13,1,TRUE
+884,,AS20221667,DWHC,08-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Swifterbant,Flevoland,52.57,5.64,0,TRUE
+885,,AS20221612,DWHC,11-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wijchen,Gelderland,51.82,5.72,0,TRUE
+886,,AS20221677,DWHC,10-08-2022,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Wilhelminadorp,Zeeland,51.4,3.61,0,TRUE
+887,,AS20221632,DWHC,10-08-2022,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Wilhelminadorp,Zeeland,51.4,3.61,0,TRUE
+888,,AS20221597,DWHC,10-08-2022,DateFound,Common Shelduck,Bergeend,Tadorna tadorna,Anatidae,Anseriformes,Wilheminadorp,Zeeland,51.4,3.61,0,TRUE
+889,,AS20221652,DWHC,11-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Swifterbant,Flevoland,52.57,5.64,0,TRUE
+890,,AS20221784,DWHC,11-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Drunen,Brabant,51.69,5.13,1,TRUE
+891,,AS20221838,DWHC,22-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hardinxveld-Giessendam,Z-Holland,51.82,4.89,1,TRUE
+892,,AS20221837,DWHC,22-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heesch,Brabant,51.73,5.54,0,TRUE
+893,,AS20221840,DWHC,22-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zevenhoven,Z-Holland,52.18,4.83,0,TRUE
+894,,AS20221794,DWHC,24-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Westerbroek,Groningen,53.18,6.71,0,TRUE
+895,,AS20221808,DWHC,23-08-2022,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Weerselo,Overijssel,52.34,6.91,0,TRUE
+896,,AS20221765,DWHC,25-08-2022,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Putte,Brabant,51.37,4.4,0,TRUE
+897,,AS20221760,DWHC,24-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heelsum,Gelderland,51.96,5.56,1,TRUE
+898,,AS20221780,DWHC,26-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heelsum,Gelderland,51.96,5.56,1,TRUE
+899,,AS20221789,DWHC,24-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Alblasserdam,Z-Holland,51.86,4.66,1,TRUE
+900,,AS20221813,DWHC,24-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heelsum,Gelderland,51.97,5.72,1,TRUE
+901,,AS20221775,DWHC,28-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Venlo,Limburg,51.37,6.18,1,TRUE
+902,,AS20221833,DWHC,28-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Almere,Flevoland,52.35,5.22,1,TRUE
+903,,AS20221828,DWHC,26-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Klein Zundert,Brabant,51.55,4.73,1,TRUE
+904,,AS20221770,DWHC,22-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Klein Zundert,Brabant,51.58,4.64,1,TRUE
+905,,AS20221798,DWHC,30-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gendt,Gelderland,51.88,5.97,1,TRUE
+906,,AS20221818,DWHC,31-08-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eindhoven,Brabant,51.44,5.46,1,TRUE
+907,,AS20221823,DWHC,31-08-2022,DateFound,European Herring Gull,Zilvermeeuw,Larus argentatus,Laridae,Charadriiformes,Den helder,N-Holland,52.96,4.77,0,TRUE
+908,,AS20221803,DWHC,02-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bosschenhoofd,Brabant,51.56,4.55,1,TRUE
+909,,AS20221851,DWHC,03-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Houten,Utrecht,52.01,5.19,1,TRUE
+910,,AS20221846,DWHC,03-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Delft,Z-Holland,52.02,4.38,1,TRUE
+911,,AS20221842,DWHC,04-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Delft,Z-Holland,52.01,4.38,1,TRUE
+912,,AS20221923,DWHC,04-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heesch,Brabant,51.73,5.52,1,TRUE
+913,,AS20221865,DWHC,04-09-2022,DateFound,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,De Cocksdorp (Texel),N-Holland,53.13,4.81,0,TRUE
+914,,AS20221870,DWHC,06-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Appelscha,Friesland,52.94,6.29,0,TRUE
+915,,AS20221898,DWHC,11-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bennekom,Gelderland,51.99,5.68,1,TRUE
+916,,AS20221875,DWHC,11-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Sibculo,Overijssel,52.48,6.64,1,TRUE
+917,,AS20221880,DWHC,12-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Enschede,Overijssel,52.19,6.84,1,TRUE
+918,,AS20221908,DWHC,12-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nuenen,Brabant,51.47,5.56,1,TRUE
+919,,AS20221913,DWHC,11-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Saasveld,Overijssel,52.34,6.79,1,TRUE
+920,,AS20221860,DWHC,14-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Son,Brabant,51.51,5.49,1,TRUE
+921,,AS20221903,DWHC,13-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nieuw-Vennep,N-Holland,52.26,4.63,1,TRUE
+922,,AS20221884,DWHC,14-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Steenenkamer,Gelderland,52.25,6.15,1,TRUE
+923,,AS20221889,DWHC,18-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Leersum,Utrecht,52.02,5.43,1,TRUE
+924,,AS20221918,DWHC,15-09-2022,DateFound,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Zundert,Brabant,51.47,4.67,1,TRUE
+925,,AS20221894,DWHC,16-09-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Veenendaal,Utrecht,52,5.55,0,TRUE
+926,,AS20221994,DWHC,19-09-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Baarlo,Limburg,51.33,6.09,1,TRUE
+927,,AS20221942,DWHC,20-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ede,Gelderland,52.03,5.66,1,TRUE
+928,,AS20221974,DWHC,20-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Mheer,Limburg,50.78,5.8,1,TRUE
+929,,AS20221999,DWHC,22-09-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Enschede,Overijssel,52.26,6.79,1,TRUE
+930,,AS20221989,DWHC,19-09-2022,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Barendrecht,Z-Holland,51.85,4.54,1,TRUE
+931,,AS20221928,DWHC,25-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Naarden,N-Holland,52.34,5.2,1,TRUE
+932,,AS20221958,DWHC,25-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Heelsum,Gelderland,51.98,5.68,1,TRUE
+933,,AS20221964,DWHC,26-09-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Bennekom,Gelderland,52,5.64,1,TRUE
+934,,AS20221957,DWHC,25-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oosterbeek,Gelderland,51.99,5.85,1,TRUE
+935,,AS20221969,DWHC,26-09-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oeffelt,Brabant,51.7,5.94,0,TRUE
+936,,AS20221952,DWHC,27-09-2022,DateFound,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Leusden,Utrecht,52.12,5.41,1,TRUE
+937,,AS20221937,DWHC,29-09-2022,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Zandhuizen,Friesland,52.92,6.16,0,TRUE
+938,,AS20221932,DWHC,03-10-2022,DateFound,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Boxmeer,Brabant,51.64,5.93,0,TRUE
+939,,AS20221979,DWHC,03-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Santpoort,N-Holland,52.42,4.63,1,TRUE
+940,,AS20222003,DWHC,03-10-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Purmerend,N-Holland,52.49,4.95,0,TRUE
+941,,AS20221947,DWHC,07-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Noordwijkerhout,Z-Holland,52.26,4.5,0,TRUE
+942,,AS20221984,DWHC,04-10-2022,DateFound,Eurasian Reed Warbler,Kleine Karekiet,Acrocephalus scirpaceus,Sylviidae,Passeriformes,Boxtel,Brabant,51.6,5.32,0,TRUE
+943,,AS20222345,DWHC,06-10-2022,DateFound,Rock Pigeon,Postduif,Columba livia domestica,Columbidae,Columbiformes,Maastricht,Limburg,50.85,5.71,0,TRUE
+944,,AS20222302,DWHC,12-10-2022,DateFound,Great Spotted Woodpecker,Grote Bonte Specht,Dendrocopos major,Picidae,Piciformes,Utrecht,Utrecht,52.34,4.88,0,TRUE
+945,,AS20222288,DWHC,13-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Katwijk,Z-Holland,52.2,4.41,0,TRUE
+946,,AS20222326,DWHC,13-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Bleskensgraaf,Z-Holland,51.87,4.78,0,TRUE
+947,,AS20222316,DWHC,20-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Nieuwerkerk aan de Ijssel,Utrecht,51.95,4.61,0,TRUE
+948,,AS20222350,DWHC,20-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,De Meern,Utrecht,52.08,5.02,0,TRUE
+949,,AS20222298,DWHC,24-10-2022,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Leeuwarden,Friesland,53.17,5.8,0,TRUE
+950,,AS20222311,DWHC,25-10-2022,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Wadenoijen,Gelderland,51.87,5.37,0,TRUE
+951,,AS20222355,DWHC,26-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Doesburg,Gelderland,52,6.12,0,TRUE
+952,,AS20222309,DWHC,31-10-2022,DateFound,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Hoef en Haag,Utrecht,52.08,5.19,0,TRUE
+953,,AS20222304,DWHC,31-10-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Heeze,Brabant,51.37,5.55,0,TRUE
+954,,AS20222284,DWHC,31-10-2022,DateFound,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Den bosch,Brabant,51.73,5.33,0,TRUE
+955,,AS20222340,DWHC,01-11-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zwolle,Overijssel,52.48,6.1,0,TRUE
+956,,AS20222330,DWHC,01-11-2022,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Nuenen,Brabant,51.47,5.56,0,TRUE
+957,,AS20222293,DWHC,31-10-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Son en Breugel,Brabant,51.53,5.48,0,TRUE
+958,,AS20222335,DWHC,01-11-2022,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Peize,Drenthe,53.18,6.5,0,TRUE
+959,,AS20222321,DWHC,02-11-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oosterhout,Brabant,51.65,4.86,0,TRUE
+960,,AS20222381,DWHC,07-11-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Amersfoort,Utrecht,52.2,5.37,0,TRUE
+961,,AS20222433,DWHC,08-11-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Geesbrug,Drenthe,52.73,6.61,0,TRUE
+962,,AS20222371,DWHC,09-11-2022,DateFound,Northern Goshawk,Havik,Accipiter gentilis,Accipitridae,Accipitriformes,Groesbeek,Gelderland,51.76,5.89,0,TRUE
+963,,AS20222401,DWHC,10-11-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Herwijnen,Gelderland,51.83,5.11,1,TRUE
+964,,AS20222426,DWHC,11-11-2022,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Utrecht,Utrecht,52.1,5.05,0,TRUE
+965,,AS20222366,DWHC,14-11-2022,DateFound,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Rosmalen,Brabant,51.71,5.37,0,TRUE
+966,,AS20222416,DWHC,14-11-2022,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Utrecht,Utrecht,52.09,5.12,0,TRUE
+967,,AS20222396,DWHC,14-11-2022,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Utrecht,Utrecht,52.09,5.12,0,TRUE
+968,,AS20222411,DWHC,14-11-2022,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Utrecht,Utrecht,52.09,5.12,0,TRUE
+969,,AS20222406,DWHC,14-11-2022,DateFound,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Utrecht,Utrecht,52.09,5.12,0,TRUE
+970,,AS20222386,DWHC,17-11-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Nistelrode,Brabant,51.7,5.57,0,TRUE
+971,,AS20222440,DWHC,21-11-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Zeist,Utrecht,52.09,5.24,0,TRUE
+972,,AS20222391,DWHC,20-11-2022,DateFound,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Wageningen,Gelderland,51.98,5.67,0,TRUE
+973,,AS20222439,DWHC,23-11-2022,DateFound,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Hoorddorp,N-Holland,52.31,4.68,0,TRUE
+974,,AS20222421,DWHC,23-11-2022,DateFound,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Houten,Utrecht,52.03,5.17,0,TRUE
+975,,AS20222429,DWHC,06-12-2022,DateFound,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Geesteren,Gelderland,52.14,6.49,0,TRUE
+976,,AS20222376,DWHC,06-12-2022,DateFound,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Kaatsheuvel,Brabant,51.66,5.02,0,TRUE
+977,,AS20210300,VPDC,06-06-2021,DateDeath,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Wageningen,Gelderland,51.98,5.66,0,TRUE
+978,,AS20210290,VPDC,15-06-2021,DateDeath,Eurasian Collared Dove,Turkse Tortel,Streptopelia decaocto,Columbidae,Columbiformes,Stichting Vogelopvang Utrecht,Utrecht,52.07,5.12,0,TRUE
+979,,AS20210257,VPDC,15-06-2021,DateDeath,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Stichting Vogelopvang Utrecht,Utrecht,52.07,5.12,0,TRUE
+980,,AS20210347,VPDC,22-06-2021,DateSampling,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Wageningen,Gelderland,51.98,5.66,0,TRUE
+981,,AS20210583,VPDC,20-06-2021,DateDeath,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Wageningen,Gelderland,51.98,5.66,0,TRUE
+982,,AS20210391,VPDC,22-06-2021,DateDeath,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Wageningen,Gelderland,51.98,5.66,0,TRUE
+983,,AS20220559,VPDC,13-07-2021,DateSampling,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+984,,AS20220563,VPDC,13-07-2021,DateSampling,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+985,,AS20220132,VPDC,12-11-2021,DateSampling,Green Woodhoopoe,Groene Boomhop,Phoeniculus purpureus,Phoeniculidae,Upupiformes,Tuitjenhorn,N-Holland,52.74,4.75,0,TRUE
+986,,AS20220676,VPDC,02-10-2022,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+987,,AS20220565,VPDC,02-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+988,,AS20220681,VPDC,02-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+989,,AS20220868,VPDC,02-10-2022,DateSampling,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+990,,AS20220701,VPDC,02-10-2022,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+991,,AS20220686,VPDC,02-10-2022,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+992,,AS20220671,VPDC,02-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+993,,AS20220716,VPDC,02-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+994,,AS20220706,VPDC,02-10-2022,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+995,,AS20220721,VPDC,02-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+996,,AS20220696,VPDC,02-10-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+997,,AS20220691,VPDC,02-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Vogelopvang Delft,Z-Holland,52.02,4.38,0,TRUE
+998,,AS20220844,VPDC,15-02-2022,DateSampling,Common Kestrel,Torenvalk,Falco tinnunculus,Falconidae,Falconiformes,N210 (Road South Holland),Z-Holland,NA,NA,0,TRUE
+999,,AS20220761,VPDC,23-02-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Deil,Gelderland,51.89,5.24,0,TRUE
+1000,,AS20220854,VPDC,23-02-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Deil,Z-Holland,51.89,5.24,0,TRUE
+1001,,AS201800036,NIOO,29-09-2017,DateDeath,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,FALSE
+1002,,AS20200615,DWHC,17-09-2020,DateSampling,Common Cuckoo,Koekoek,Cuculus canorus,Cuculidae,Cuculiformes,Almere Jungle,Flevoland,52.34,5.27,0,TRUE
+1003,MN122215,AS201800038,NIOO,11-09-2017,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eastermar,Friesland,53.18,6.06,1,FALSE
+1004,,AS201800204,NIOO,05-09-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eastermar,Friesland,53.18,6.06,1,TRUE
+1005,,AS20200312,NIOO,27-10-2018,DateDeath,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Eastermar,Friesland,53.18,6.06,0,TRUE
+1006,,AS20200322,NIOO,04-11-2018,DateDeath,Redwing,Koperwiek,Turdus iliacus,Turdidae,Passeriformes,Eastermar,Friesland,53.18,6.06,0,TRUE
+1007,,AS20221353,Wildopvang Krommenie,16-02-2022,DateSampling,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1008,,AS20221358,Wildopvang Krommenie,16-02-2022,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1009,,AS20221363,Wildopvang Krommenie,16-02-2022,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1010,,AS20221368,Wildopvang Krommenie,16-02-2022,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1011,,AS20221373,Wildopvang Krommenie,16-02-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1012,,AS20221378,Wildopvang Krommenie,16-02-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1013,,AS20221383,Wildopvang Krommenie,16-02-2022,DateSampling,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1014,,AS20221388,Wildopvang Krommenie,16-02-2022,DateSampling,Eurasian Wigeon,Smient,Mareca penelope,Anatidae,Anseriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1015,,AS20221393,Wildopvang Krommenie,16-02-2022,DateSampling,Gull,Meeuw,Laridae (fam),Laridae,Charadriiformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1016,,AS20221398,Wildopvang Krommenie,16-02-2022,DateSampling,Gull,Meeuw,Laridae (fam),Laridae,Charadriiformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1017,,AS20221403,Wildopvang Krommenie,16-02-2022,DateSampling,Gull,Meeuw,Laridae (fam),Laridae,Charadriiformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1018,,AS20221408,Wildopvang Krommenie,17-02-2022,DateSampling,Eurasian Magpie,Ekster,Pica pica,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,1,TRUE
+1019,,AS20221413,Wildopvang Krommenie,17-02-2022,DateSampling,Ring-necked Pheasant,Fazant,Phasianus colchicus,Phasianidae,Galliformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1020,,AS20221418,Wildopvang Krommenie,17-02-2022,DateSampling,Eurasian Woodcock,Houtsnip,Scolopax rusticola,Scolopacidae,Charadriiformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1021,,AS20221423,Wildopvang Krommenie,17-02-2022,DateSampling,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1022,,AS20221428,Wildopvang Krommenie,17-02-2022,DateSampling,Goldcrest,Goudhaan,Regulus regulus,Regulidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,1,TRUE
+1023,,AS20221433,Wildopvang Krommenie,17-02-2022,DateSampling,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1024,,AS20221438,Wildopvang Krommenie,17-02-2022,DateSampling,Egyptian Goose,Nijlgans,Alopochen aegyptiaca,Anatidae,Anseriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1025,,AS20221443,Wildopvang Krommenie,17-02-2022,DateSampling,Eurasian Wigeon,Smient,Mareca penelope,Anatidae,Anseriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1026,,AS20221448,Wildopvang Krommenie,17-02-2022,DateSampling,Carrion Crow,Zwarte Kraai,Corvus corone,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1027,,AS20221453,Wildopvang Krommenie,17-02-2022,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Krommenie,N-Holland,52.51,4.75,0,TRUE
+1028,,AS201800033,NIOO,19-09-2017,DateDeath,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,FALSE
+1029,,AS201800034,NIOO,20-09-2017,DateDeath,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,FALSE
+1030,,AS201800035,NIOO,20-09-2017,DateDeath,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,FALSE
+1031,,AS201800199,NIOO,22-06-2018,DateDeath,Garden Warbler,Tuinfluiter,Sylvia borin,Sylviidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1032,,AS201800037,NIOO,11-11-2017,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,FALSE
+1033,,AS201800202,NIOO,20-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,1,TRUE
+1034,,AS20211216,DWHC,12-10-2021,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Haarzuilens,Utrecht,52.14,5,0,TRUE
+1035,,AS201800031,NIOO,18-09-2017,DateDeath,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Haarzuilens,Utrecht,52.14,5,0,FALSE
+1036,,AS201800200,NIOO,18-08-2018,DateDeath,Eurasian Reed Warbler,Kleine Karekiet,Acrocephalus scirpaceus,Sylviidae,Passeriformes,Haarzuilens,Utrecht,52.14,5,0,TRUE
+1037,,AS20200292,NIOO,23-06-2020,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wageningen,Gelderland,51.99,5.67,0,TRUE
+1038,,AS20200298,NIOO,01-03-2020,DateDeath,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1039,,AS20200300,NIOO,25-04-2019,DateDeath,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1040,,AS20200302,NIOO,11-07-2019,DateDeath,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1041,,AS20200324,NIOO,25-04-2019,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1042,,AS20200330,NIOO,30-10-2018,DateDeath,Short-toed Treecreeper,Boomkruiper,Certhia brachydactyla,Certhiidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1043,,AS20200332,NIOO,30-10-2018,DateDeath,Blue Tit,Pimpelmees ,Cyanistes caeruleus,Paridae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1044,,AS20200334,NIOO,30-10-2018,DateDeath,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1045,,AS20200338,NIOO,20-11-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wageningen,Gelderland,51.99,5.67,0,TRUE
+1046,,AS201800032,NIOO,19-09-2017,DateDeath,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,FALSE
+1047,,AS201800205,NIOO,13-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Moddergat,Friesland,53.4,6.06,1,TRUE
+1048,,AS201800206,NIOO,13-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Moddergat,Friesland,53.4,6.06,1,TRUE
+1049,,AS201800207,NIOO,13-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Moddergat,Friesland,53.4,6.06,1,TRUE
+1050,,AS201800208,NIOO,13-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Moddergat,Friesland,53.4,6.06,1,TRUE
+1051,,AS201800209,NIOO,13-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Moddergat,Friesland,53.4,6.06,1,TRUE
+1052,,AS201800210,NIOO,13-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Moddergat,Friesland,53.4,6.06,1,TRUE
+1053,,AS20200326,NIOO,04-10-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Radio Kootwijk,Gelderland,52.18,5.83,0,TRUE
+1054,,AS20200310,NIOO,28-07-2020,DateDeath,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Wageningen Uiverweide,Gelderland,51.98,5.65,0,TRUE
+1055,,AS201800203,NIOO,25-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wageningen Asserpark,Gelderland,51.98,5.68,1,TRUE
+1056,,AS20200294,NIOO,08-04-2020,DateDeath,European Pied Flycatcher,Bonte Vliegenvanger,Ficedula hypoleuca,Muscicapidae,Passeriformes,Westerheide,Gelderland,52.02,5.84,0,TRUE
+1057,,AS20200320,NIOO,30-06-2020,DateDeath,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Westerheide,Gelderland,52.02,5.84,0,TRUE
+1058,,AS20200304,NIOO,25-09-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wolfheze,Gelderland,52,5.78,0,TRUE
+1059,,AS20200314,NIOO,25-09-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wolfheze,Gelderland,52,5.78,0,TRUE
+1060,,358-1968,LiveBirdSurveillance,13-11-2022,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Haarzuilens Eendenkooi,Utrecht,52.14,5,0,TRUE
+1061,,358-2163,LiveBirdSurveillance,13-11-2022,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Haarzuilens Eendenkooi,Utrecht,52.14,5,0,TRUE
+1062,,21TV4763,LiveBirdSurveillance,24-10-2021,DateSampling,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Haarzuilens Griend,Utrecht,52.14,5,0,TRUE
+1063,,18TV1168,LiveBirdSurveillance,28-03-2021,DateSampling,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,Haarzuilens Griend,Utrecht,52.14,5,0,TRUE
+1064,,21TV0732,LiveBirdSurveillance,24-04-2021,DateSampling,Ring Ouzel,Beflijster,Turdus torquatus,Turdidae,Passeriformes,Haarzuilens Griend,Utrecht,52.14,5,0,TRUE
+1065,,22B06167,LiveBirdSurveillance,10-12-2022,DateSampling,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,Haarzuilens Griend,Utrecht,52.14,5,0,TRUE
+1066,,21TV3303,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,"Haarzuilens, Kunstwand",Utrecht,52.12,5.01,0,TRUE
+1067,,21TV8430,LiveBirdSurveillance,09-05-2022,DateSampling,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,Overberg  Veenendaal,Utrecht,52.04,5.47,0,TRUE
+1068,,21TV6341,LiveBirdSurveillance,11-04-2022,DateSampling,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,"landgoed Oldenaller, Putten",Gelderland,52.25,5.52,0,TRUE
+1069,,16TV1022,LiveBirdSurveillance,14-09-2016,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Wageningen,Gelderland,51.98,5.66,1,TRUE
+1070,,16TV1064,LiveBirdSurveillance,20-09-2016,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Uden,Brabant,51.67,5.62,0,TRUE
+1071,,16TV1037,LiveBirdSurveillance,06-10-2016,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Nijmegen,Gelderland,51.83,5.86,1,TRUE
+1072,,17TV0074,LiveBirdSurveillance,29-04-2017,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,1,TRUE
+1073,,17TV1109,LiveBirdSurveillance,19-06-2017,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1074,,16TV1089,LiveBirdSurveillance,01-07-2017,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Berg en Dal,Gelderland,51.83,5.91,0,TRUE
+1075,,16TV0262,LiveBirdSurveillance,23-08-2017,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,"Naarden, Oud Valkeveen",N-Holland,52.31,5.2,0,TRUE
+1076,,18TV0395,LiveBirdSurveillance,08-05-2018,DateSampling,Eurasian Reed Warbler,Kleine Karekiet,Acrocephalus scirpaceus,Sylviidae,Passeriformes,"Oostvaardersdijk, Almere",Flevoland,52.49,5.39,0,TRUE
+1077,,18TV1693,LiveBirdSurveillance,04-12-2018,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eastermar,Friesland,53.18,6.06,0,TRUE
+1078,,18TV1350,LiveBirdSurveillance,21-01-2019,DateSampling,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Gorssel,Gelderland,52.21,6.2,0,TRUE
+1079,,18TV1405,LiveBirdSurveillance,19-01-2019,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Karveel,Flevoland,52.52,5.45,0,TRUE
+1080,,19TV0158,LiveBirdSurveillance,17-08-2019,DateSampling,House Sparrow,Huismus,Passer domesticus,Passeridae,Passeriformes,Gorssel,Gelderland,52.21,6.2,0,TRUE
+1081,,19TV3355,LiveBirdSurveillance,08-02-2020,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Dassenbos Wageningen,Gelderland,51.98,5.65,0,TRUE
+1082,,20TV0303,LiveBirdSurveillance,11-04-2020,DateSampling,Bluethroat,Witgesterde Blauwborst,Luscinia svecica,Turdidae,Passeriformes,Natuurgebied De Burgumer Mar Oostoever,Friesland,53.19,6.06,0,TRUE
+1083,,20TV0737,LiveBirdSurveillance,30-05-2020,DateSampling,Greater Whitethroat,Grasmus,Sylvia communis,Sylviidae,Passeriformes,"Oostvaardersdijk, Almere",Flevoland,52.42,5.23,0,TRUE
+1084,,20TV2207,LiveBirdSurveillance,10-09-2020,DateSampling,Lesser Whitethroat,Braamsluiper,Curruca curruca,Sylviidae,Passeriformes,"Almere, OVD 28",Flevoland,52.49,5.39,0,TRUE
+1085,,20TV3699,LiveBirdSurveillance,11-10-2020,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,"Naarden, Oud Valkeveen",N-Holland,52.31,5.2,0,TRUE
+1086,,20TV4121,LiveBirdSurveillance,31-10-2020,DateSampling,European Greenfinch,Groenling,Chloris chloris,Fringillidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1087,,20TV4087,LiveBirdSurveillance,07-11-2020,DateSampling,Common Reed Bunting,Rietgors,Emberiza schoeniclus,Fringillidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1088,,20TV5875,LiveBirdSurveillance,10-11-2020,DateSampling,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,"Nationaal Park Zuid-Kennemerland, Bloemendaal",N-Holland,52.42,4.61,0,TRUE
+1089,,20TV5655,LiveBirdSurveillance,11-11-2020,DateSampling,Brambling,Keep,Fringilla montifringilla,Fringillidae,Passeriformes,VRS Terschelling - Oosterend,Friesland,53.4,5.38,0,TRUE
+1090,,20TV4672,LiveBirdSurveillance,20-03-2021,DateSampling,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1091,,20TV4665,LiveBirdSurveillance,20-03-2021,DateSampling,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1092,,20TV4648,LiveBirdSurveillance,10-04-2021,DateSampling,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1093,,21TV1245,LiveBirdSurveillance,26-04-2021,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Eastermar,Friesland,53.18,6.06,0,TRUE
+1094,,21TV0680,LiveBirdSurveillance,02-05-2021,DateSampling,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1095,,21TV1390,LiveBirdSurveillance,15-05-2021,DateSampling,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1096,,21TV1916,LiveBirdSurveillance,03-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,"Haarzuilens, Wielreveld, Kunstwand",Utrecht,52.12,5.01,0,TRUE
+1097,,21TV2320,LiveBirdSurveillance,07-06-2021,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Natuurgebied De Burgumer Mar Oostoever,Friesland,53.19,6.06,0,TRUE
+1098,,21TV3100,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,"Haarzuilens, Wielreveld, Kunstwand",Utrecht,52.12,5.01,0,TRUE
+1099,,21TV3185,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,"Haarzuilens, Wielreveld, Kunstwand",Utrecht,52.12,5.01,0,TRUE
+1100,,21TV3027,LiveBirdSurveillance,06-07-2021,DateSampling,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Hattem,Gelderland,52.47,6.09,0,TRUE
+1101,,21TV3776,LiveBirdSurveillance,10-07-2021,DateSampling,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1102,,21TV3899,LiveBirdSurveillance,01-08-2021,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1103,,21TV5528,LiveBirdSurveillance,23-08-2021,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,VRS Terschelling - Oosterend,Friesland,53.4,5.38,0,TRUE
+1104,,21TV7543,LiveBirdSurveillance,27-10-2021,DateSampling,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Eastermar,Friesland,53.18,6.06,0,TRUE
+1105,,21TV3413,LiveBirdSurveillance,18-12-2021,DateSampling,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Maastricht,Limburg,50.83,5.73,0,TRUE
+1106,,21TV3535,LiveBirdSurveillance,18-12-2021,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Maastricht,Limburg,50.83,5.73,0,TRUE
+1107,,21TV9204,LiveBirdSurveillance,30-01-2022,DateSampling,Sanderling,Drieteenstrandloper,Calidris alba,Scolopacidae,Charadriiformes,"Suyderoogh, Lauwersoog, Het Hogeland",Groningen,53.39,6.21,0,TRUE
+1108,,21TV4333,LiveBirdSurveillance,20-03-2022,DateSampling,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1109,,20TV4760,LiveBirdSurveillance,10-01-2021,DateSampling,Common Wood Pigeon,Houtduif,Columba palumbus,Columbidae,Columbiformes,Vleuten Maximapark,Utrecht,52.09,5.02,0,TRUE
+1110,,21TV0900,LiveBirdSurveillance,14-04-2022,DateSampling,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,"Putten, Oldenaller",Gelderland,52.25,5.52,0,TRUE
+1111,,22TV0036,LiveBirdSurveillance,23-04-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Natuurgebied De Burgumer Mar Oostoever,Friesland,53.19,6.06,0,TRUE
+1112,,20TV4758,LiveBirdSurveillance,12-01-2021,DateSampling,Common Starling,Spreeuw,Sturnus vulgaris,Sturnidae,Passeriformes,"Vleuten, Haarrijnseplas",Utrecht,52.11,5.02,0,TRUE
+1113,,21TV7202,LiveBirdSurveillance,02-06-2022,DateSampling,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,IJsselstein,Utrecht,52.03,5,0,TRUE
+1114,,22TV2166,LiveBirdSurveillance,03-06-2022,DateSampling,Sandwich Tern,Grote Stern,Thalasseus sandvicensis,Laridae,Charadriiformes,"Slijkplaat, Haringvliet",Z-Holland,51.8,4.15,0,TRUE
+1115,,22TV2167,LiveBirdSurveillance,03-06-2022,DateSampling,Lesser Black-backed Gull,Kleine Mantelmeeuw,Larus fuscus,Laridae,Charadriiformes,"Slijkplaat, Haringvliet",Z-Holland,51.8,4.15,0,TRUE
+1116,,22TV2168,LiveBirdSurveillance,03-06-2022,DateSampling,Sandwich Tern,Grote Stern,Thalasseus sandvicensis,Laridae,Charadriiformes,"Slijkplaat, Haringvliet",Z-Holland,51.8,4.15,0,TRUE
+1117,,22TV2169,LiveBirdSurveillance,03-06-2022,DateSampling,Sandwich Tern,Grote Stern,Thalasseus sandvicensis,Laridae,Charadriiformes,"Slijkplaat, Haringvliet",Z-Holland,51.8,4.15,0,TRUE
+1118,,22TV2170,LiveBirdSurveillance,03-06-2022,DateSampling,Common Tern,Visdief,Sterna hirundo,Laridae,Charadriiformes,"Bliek, Haringvliet",Z-Holland,51.78,4.22,0,TRUE
+1119,,22TV1327,LiveBirdSurveillance,17-06-2022,DateSampling,Common Quail,Kwartel,Coturnix coturnix,Phasianidae,Galliformes,Exloo,Drenthe,52.91,6.87,0,TRUE
+1120,,22TV1331,LiveBirdSurveillance,17-06-2022,DateSampling,Common Quail,Kwartel,Coturnix coturnix,Phasianidae,Galliformes,Valthermond,Drenthe,52.87,6.91,0,TRUE
+1121,,22TV2796,LiveBirdSurveillance,17-07-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1122,,22TV3132,LiveBirdSurveillance,30-07-2022,DateSampling,Eurasian Blackcap,Zwartkop,Sylvia atricapilla,Sylviidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1123,,22TV2613,LiveBirdSurveillance,28-08-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,1,TRUE
+1124,,22TV2696,LiveBirdSurveillance,04-09-2022,DateSampling,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,"Haarzuilens, Griend",Utrecht,52.14,5,0,TRUE
+1125,,21TV8135,LiveBirdSurveillance,21-09-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,"Berg en Dal, Oranjelaan",Gelderland,51.82,5.91,1,TRUE
+1126,,22B00151,LiveBirdSurveillance,15-09-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,"Breukelen, Oud AA",Utrecht,52.17,4.98,1,TRUE
+1127,,21TV5173,LiveBirdSurveillance,26-09-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Goor,Overijssel,52.23,6.59,1,TRUE
+1128,,22B00859,LiveBirdSurveillance,24-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Heiweg Nuland,Brabant,51.72,5.44,0,TRUE
+1129,,358-2032,LiveBirdSurveillance,12-11-2022,DateSampling,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1130,,358-2036,LiveBirdSurveillance,12-11-2022,DateSampling,Eurasian Wren,Winterkoning,Troglodytes troglodytes,Certhiidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1131,,358-2018,LiveBirdSurveillance,12-11-2022,DateSampling,Common Firecrest,Vuurgoudhaan,Regulus ignicapilla,Regulidae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1132,,358-2108,LiveBirdSurveillance,12-11-2022,DateSampling,Blue Tit,Pimpelmees,Cyanistes caeruleus,Paridae,Passeriformes,"Haarzuilens, Eendenkooi, CES locatie",Utrecht,52.13,5.01,0,TRUE
+1133,,22B02519,LiveBirdSurveillance,25-11-2022,DateSampling,Common Chaffinch,Vink,Fringilla coelebs,Fringillidae,Passeriformes,Maastricht,Limburg,50.83,5.73,0,TRUE
+1134,,21TV4245,LiveBirdSurveillance,02-12-2022,DateSampling,Little Owl,Steenuil,Athene noctua,Strigidae,Strigiformes,"Bedrijfsgebouw WUR, Wageningen",Gelderland,51.99,5.66,0,TRUE
+1135,,AS201800213,Maria Elisa Vogelhospitaal,01-09-2017,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Bennebroek,N-Holland,52.32,4.59,1,TRUE
+1136,,AS20210161,DWHC,26-04-2021,DateSampling,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Boschhoven,Brabant,51.36,5.55,0,TRUE
+1137,,AS20210095,DWHC,19-04-2021,DateSampling,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Budel,Brabant,51.27,5.57,0,TRUE
+1138,,AS20190768,DWHC,11-11-2019,DateSampling,European Robin,Roodborst,Erithacus rubecula,Turdidae,Passeriformes,Den bosch,Brabant,51.69,5.3,0,TRUE
+1139,,AS201800201,NIOO,25-02-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Eerbeek,Gelderland,52.11,6.07,1,TRUE
+1140,,AS20221202,DWHC,14-04-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Gieten,Drenthe,53,6.76,0,TRUE
+1141,,AS201800214,Maria Elisa Vogelhospitaal,01-09-2017,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.64,1,TRUE
+1142,,AS201800215,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.64,1,TRUE
+1143,,AS201800218,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.64,1,TRUE
+1144,,AS201800219,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.64,1,TRUE
+1145,,AS201800221,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.64,1,TRUE
+1146,,AS201800222,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Haarlem,N-Holland,52.38,4.64,1,TRUE
+1147,,AS20200308,NIOO,16-06-2019,DateDeath,Barn Swallow,Boerenzwaluw,Hirundo rustica,Hirundinidae,Passeriformes,Hardenberg,Overijssel,52.57,6.63,0,TRUE
+1148,,AS20200518,DWHC,22-09-2020,DateSampling,Common Barn Owl,Kerkuil,Tyto alba,Tytonidae,Strigiformes,Hardinxveld-Giessendam,Z-Holland,51.84,4.82,0,TRUE
+1149,,AS201800217,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Hoofddorp,N-Holland,52.31,4.69,1,TRUE
+1150,MN122182,AS201600280,Dead bird Oss,26-09-2016,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Ingen,Gelderland,51.96,5.49,1,FALSE
+1151,,AS20211078,DWHC,12-10-2021,DateSampling,Egyptian Goose,Nijlgans,Alopochen aegyptiaca,Anatidae,Anseriformes,Koedijk,N-Holland,52.67,4.76,0,TRUE
+1152,MN122183,AS201600281,Dead bird Oss,25-09-2016,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Langbroek,Gelderland,52.01,5.33,1,FALSE
+1153,,AS201600279,Dead bird Oss,18-09-2016,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oss,Brabant,51.77,5.53,1,FALSE
+1154,MN122186,AS201600286,Dead bird Oss,28-09-2016,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oss,Brabant,51.77,5.53,1,FALSE
+1155,MN122184,AS201600283,Dead bird Oss,27-09-2016,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oss,Brabant,51.77,5.53,1,FALSE
+1156,MN122185,AS201600284,Dead bird Oss,03-10-2016,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Oss,Brabant,51.77,5.53,1,FALSE
+1157,,AS201800220,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Overveen,N-Holland,52.39,4.61,1,TRUE
+1158,,AS201800072,DWHC,26-06-2018,DateDeath,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Roden,Drenthe,53.14,6.43,0,FALSE
+1159,MN122187,AS201600287,Dead bird Oss,27-09-2016,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Schaik,Brabant,51.76,5.51,1,FALSE
+1160,,AS20210144,DWHC,29-04-2021,DateSampling,European Goldfinch,Putter,Carduelis carduelis,Fringillidae,Passeriformes,Tiel,Gelderland,51.89,5.43,0,TRUE
+1161,,AS20202501,DWHC,26-02-2021,DateSampling,Western Jackdaw,Kauw,Coloeus monedula,Corvidae,Passeriformes,Utrecht,Utrecht,52.08,5.13,0,TRUE
+1162,,AS20210638,DWHC,27-07-2021,DateSampling,Common Chiffchaff,Tjiftjaf,Phylloscopus collybita,Phylloscopidae,Passeriformes,Utrecht,Utrecht,52.08,5.13,0,TRUE
+1163,,AS20210617,DWHC,03-08-2021,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Utrecht,Utrecht,52.08,5.13,0,TRUE
+1164,,AS201800216,Maria Elisa Vogelhospitaal,01-08-2018,DateDeath,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Velserbroek,N-Holland,52.43,4.66,1,TRUE
+1165,,22B00465,LiveBirdSurveillance,15-09-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Alkmaar,N-Holland,52.6,4.82,1,TRUE
+1166,,20TV3326,LiveBirdSurveillance,24-10-2020,DateSampling,Mute Swan,Knobbelzwaan,Cygnus olor,Anatidae,Anseriformes,Almere Bloemenbuurt,Flevoland,52.39,5.28,0,TRUE
+1167,,21TV8442,LiveBirdSurveillance,20-04-2022,DateSampling,Common Raven,Raaf,Corvus corax,Corvidae,Passeriformes,Beerschoten Bosch en Duin Bilthoven,Utrecht,52.11,5.21,0,TRUE
+1168,,21TV3099,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1169,,21TV3179,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1170,,21TV3180,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1171,,21TV3181,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1172,,21TV3182,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1173,,21TV3183,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1174,,21TV3186,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1175,,21TV3187,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1176,,21TV3188,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1177,,21TV3189,LiveBirdSurveillance,23-06-2021,DateSampling,Sand Martin,Oeverzwaluw,Riparia riparia,Hirundinidae,Passeriformes,Haarzuilens,Utrecht,52.12,5,0,TRUE
+1178,,22TV1030,LiveBirdSurveillance,13-06-2022,DateSampling,Great Tit,Koolmees,Parus major,Paridae,Passeriformes,Krommenie,N-Holland,52.5,4.77,0,TRUE
+1179,,22B00480,LiveBirdSurveillance,03-10-2022,DateSampling,Song Thrush,Zanglijster,Turdus philomelos,Turdidae,Passeriformes,Zaandam,N-Holland,52.44,4.83,0,TRUE
+1180,,22B00481,LiveBirdSurveillance,03-10-2022,DateSampling,Common Blackbird,Merel,Turdus merula,Turdidae,Passeriformes,Zaandam,N-Holland,52.44,4.83,0,TRUE

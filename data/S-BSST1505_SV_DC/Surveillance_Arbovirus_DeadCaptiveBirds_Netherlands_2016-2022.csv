@@ -1,0 +1,177 @@
+INSDC Sequence accession,UniqueID/Isolate,ID,Wild_Cap,location,postal.code,Lat,Long,English,Latin,family,order,NSamplesTested,BirdUSUV,BirdTestedWNV,DateInfo,DeathOrSampleDate
+,,sp2016-00753-001_doubleID2,Captive,Hoeven,4741,51.5802562,4.5875432,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateDeath,2016
+MK796169,AS201600083,sp2016-00753-001_doubleID1,Captive,Waardenburg,4181,51.8313424,5.2575135,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateDeath,2016
+,,3160810034,Captive,Hedel,5321,51.7448817,5.2597063,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateSampling,11-08-2016
+MK796168,AS201600070,3160913020,Captive,Born,6121,51.03383,5.80965,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,3,1,FALSE,DateDeath,12-09-2016
+,,3160913029,Captive,Velp,5363,51.9958671,5.9751252,Common Barn Owl,Tyto alba,Tytonidae,Strigiformes,2,0,FALSE,DateSampling,14-09-2016
+,,3160920001,Captive,Waardenburg,4181,51.8313424,5.2575135,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,3,1,FALSE,DateSampling,20-09-2016
+,,PA 17-0248,Captive,Enschede,7504,52.22336325,6.870595664,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateDeath,31-07-2017
+,,3170811032,Captive,Wenum Wiesel,7345,52.2546727,5.9632909,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateDeath,09-08-2017
+,,3171009002,Captive,Dordrecht,3311,51.7689546,4.686789054,Ara,Ara (genus),Psittacidae,Psittaciformes,1,0,FALSE,DateSampling,09-10-2017
+,,3180104030,Captive,Epe,8162,52.3270371,5.963194502,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateDeath,04-01-2018
+,,3180627022_doubleID1,Captive,"Leerdam, Aqua Zoo",4141,51.89127596,5.108473911,Jackass Penguin,Spheniscus demersus,Spheniscidae,Sphenisciformes,1,0,TRUE,DateDeath,27-06-2018
+,,3180724009,Captive,Amersfoort,3800,52.1562499,5.3896944,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,1,1,FALSE,DateDeath,24-07-2018
+,,4028,Captive,"Leerdam, Aqua Zoo",4141,51.89127596,5.108473911,Common Scoter,Melanitta nigra,Anatidae,Anseriformes,1,1,TRUE,DateDeath,07-08-2018
+,,4043,Captive,"Leerdam, Aqua Zoo",4141,51.89127596,5.108473911,Steller's Eider,Polysticta stelleri,Anatidae,Anseriformes,3,1,TRUE,DateDeath,15-08-2018
+,,4044,Captive,'t Waar,9670,53.2249696,6.9518003,Common Scoter,Melanitta nigra,Anatidae,Anseriformes,3,1,TRUE,DateDeath,18-08-2018
+,,4062,Captive,'t Waar,9670,53.2249696,6.9518003,Common Scoter,Melanitta nigra,Anatidae,Anseriformes,6,1,TRUE,DateDeath,23-08-2018
+,,3180907033,Captive,Bunschoten-Spakenburg,3851,52.2452013,5.3731599,Steller's Sea Eagle,Haliaeetus pelagicus,Accipitridae,Accipitriformes,2,0,TRUE,DateSampling,07-09-2018
+,,NoID_016,Captive,Hardinxveld-giessendam,3370,51.83862405,4.824610423,Common Goldeneye,Bucephala clangula,Anatidae,Anseriformes,2,0,TRUE,DateDeath,13-11-2018
+,,3190712002,Captive,Helvoirt,5268,51.6336388,5.2290649,Eastern Rosella,Platycercus eximius,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,10-07-2019
+,,3190723005,Captive,Unknown,,NA,NA,Red-breasted Parakeet,Psittacula alexandri,Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,23-07-2019
+,,3190801035,Captive,Amersfoort,3823,52.1562499,5.3896944,Parrot,Psittaciformes (order),Unknown,Psittaciformes,1,0,TRUE,DateDeath,30-07-2019
+,,3190828010,Captive,Utrecht,3584,52.0907006,5.1215634,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateDeath,28-08-2019
+,,3190902011,Captive,Hoogvliet,3192,51.8652855,4.3641111,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateSampling,02-09-2019
+,,3190904011,Captive,Capelle aan den IJssel,2905,51.9312552,4.5883596,Zebra Finch,Taeniopygia (genus),Estrildidae,Passeriformes,4,1,TRUE,DateDeath,03-09-2019
+,,3190910003,Captive,Nieuw-Amsterdam,7833,52.7152155,6.8589395,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateDeath,08-09-2019
+,,3190913047,Captive,Druten,6652,51.8861226,5.6030143,Hill Myna,Gracula religiosa,Sturnidae,Passeriformes,4,1,TRUE,DateDeath,12-09-2019
+,,3190918012,Captive,Maarssen,3601,52.1384846,5.040082,Blue-and-yellow Macaw,Ara ararauna,Psittacidae,Psittaciformes,3,0,TRUE,DateDeath,16-09-2019
+,,3191015001,Captive,Venhuizen,1606,52.6626396,5.1997975,Senegal Parrot,Poicephalus senegalus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,13-10-2019
+,,3191018037,Captive,Zoetermeer,2726,52.06228915,4.487754536,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,17-10-2019
+,,3191021002,Captive,Utrecht,3584,52.0907006,5.1215634,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateDeath,20-10-2019
+,,3191023001,Captive,Utrecht,3584,52.0907006,5.1215634,Eurasian Eagle-owl,Bubo bubo,Strigidae,Strigiformes,1,0,TRUE,DateSampling,23-10-2019
+,,3191031026,Captive,Made,4921,51.6773008,4.7931811,Black-throated Finch,Poephila cincta,Estrildidae,Passeriformes,1,0,TRUE,DateDeath,29-10-2019
+,,3191111008,Captive,Ede,6717,52.07168255,5.745510631,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,08-11-2019
+,,3191113005,Captive,Groningen,9713,53.2190652,6.5680077,Cockatoo,Cacatua (genus),Cacatuidae,Psittaciformes,2,0,TRUE,DateDeath,11-11-2019
+,,3191113017,Captive,Woerden,3442,52.0859261,4.8832939,Senegal Parrot,Poicephalus senegalus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,12-11-2019
+,,3191115031,Captive,Rotterdam,3053,51.9244424,4.47775,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateDeath,15-11-2019
+,,3191115032,Captive,Rotterdam,3053,51.9244424,4.47775,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateDeath,15-11-2019
+,,3191120008,Captive,Overberg,3959,52.0390484,5.4964645,Blue-and-yellow Macaw,Ara ararauna,Psittacidae,Psittaciformes,2,0,TRUE,DateDeath,19-11-2019
+,,3191122008,Captive,Bennekom,6721,52.0015947,5.6756511,Palm Cockatoo,Probosciger aterrimus,Cacatuidae,Psittaciformes,2,0,TRUE,DateDeath,20-11-2019
+,,3191129035,Captive,Schalkwijk,3998,51.9931917,5.1907825,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,29-11-2019
+,,3191202042,Captive,Amsterdam,1067,52.3730796,4.8924534,Gang-gang Cockatoo,Callocephalon fimbriatum,Psittacidae,Psittaciformes,2,0,TRUE,DateDeath,29-11-2019
+,,3191203036,Captive,Purmerend,1448,52.5024789,4.9614827,Red-fronted Parrot,Poicephalus gulielmi,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,02-12-2019
+,,3191206011,Captive,Katwijk,2223,52.18985485,4.414558264,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateDeath,06-12-2019
+,,3191206013,Captive,Katwijk,2223,52.18985485,4.414558264,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateDeath,06-12-2019
+,,3191210028,Captive,Barneveld,3771,52.17150665,5.645439249,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,09-12-2019
+,,3191210029,Captive,Barneveld,3771,52.17150665,5.645439249,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,09-12-2019
+,,3191210030,Captive,Barneveld,3771,52.17150665,5.645439249,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,09-12-2019
+,,3191218005,Captive,Eibergen,7151,52.1032685,6.6511683,Black Swan,Cygnus atratus,Anatidae,Anseriformes,1,0,TRUE,DateDeath,15-12-2019
+,,3191220002,Captive,Winterswijk,7101,51.96802135,6.737872334,Columbidae,Columbidae (fam),Columbidae,Columbiformes,1,0,TRUE,DateSampling,20-12-2019
+,,3191227011,Captive,Den Haag,2586,52.0799838,4.3113461,Humboldt's Penguin,Spheniscus humboldti,Spheniscidae,Sphenisciformes,1,0,TRUE,DateSampling,27-12-2019
+,,3200107003,Captive,Erica,7887,52.7158137,6.926866,Ducorps's Cockatoo,Cacatua ducorpsi,Cacatuidae,Psittaciformes,1,0,TRUE,DateDeath,03-01-2020
+,,3200107030,Captive,Waalwijk,5141,51.68733715,5.017307939,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,06-01-2020
+,,3200114002,Captive,Houten,3995,52.0271433,5.1620637,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,12-01-2020
+,,16NL3524-1,Captive,Unknown,,NA,NA,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,3,0,TRUE,DateDeath,21-01-2020
+,,3200129020,Captive,Utrecht,3584,52.0907006,5.1215634,Zebra Finch,Taeniopygia (genus),Estrildidae,Passeriformes,1,0,TRUE,DateSampling,29-01-2020
+,,3200131022,Captive,Utrecht,3584,52.0907006,5.1215634,Crested Partridge,Rollulus rouloul,Phasianidae,Galliformes,1,0,TRUE,DateDeath,30-01-2020
+,,3200309026,Captive,Lelystad,8226,52.53668095,5.361043525,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,06-03-2020
+,,3200324002,Captive,Den Haag,2583,52.0799838,4.3113461,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,24-03-2020
+,,3200406002,Captive,Schoonebeek,7761,52.6642696,6.8847692,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,03-04-2020
+,,3200421003,Captive,Feanwalden,9269,53.2371902,5.9944367,Gouldian Finch,Chloebia gouldiae,Passeridae,Passeriformes,1,0,TRUE,DateDeath,20-04-2020
+,,3200423004,Captive,Erica,7887,52.7158137,6.926866,Opal-rumped Tanager,Tangara velia,Thraupidae,Passeriformes,1,0,TRUE,DateDeath,21-04-2020
+,,3200422036,Captive,Utrecht,3584,52.0907006,5.1215634,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateSampling,22-04-2020
+,,3200504024,Captive,Leiden,2332,52.1518157,4.481108866,Lovebird,Agapornis (genus),Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,04-05-2020
+,,3200514004,Captive,Almere,1328,52.3705038,5.2185859,Kakariki,Cyanoramphus (genus),Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,13-05-2020
+,,3200520056,Captive,Eindhoven,5651,51.4392648,5.478633,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,17-05-2020
+,,3200520006,Captive,Erica,7887,52.7158137,6.926866,Senegal Parrot,Poicephalus senegalus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,19-05-2020
+,,3200512006,Captive,Leidschendam,2263,52.0861654,4.3946774,Parrot,Psittaciformes (order),Unknown,Psittaciformes,1,0,TRUE,DateDeath,20-05-2020
+,,3200526002,Captive,Amsterdam,1103,52.3730796,4.8924534,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,25-05-2020
+,,3200528027,Captive,Almere,1323,52.3705038,5.2185859,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateDeath,28-05-2020
+,,3200602001,Captive,Utrecht,3584,52.0907006,5.1215634,Zebra Finch,Taeniopygia (genus),Estrildidae,Passeriformes,1,0,TRUE,DateDeath,01-06-2020
+,,3200608031,Captive,Ede,6717,52.07168255,5.745510631,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,07-06-2020
+,,3200626029,Captive,Almere,1324,52.3705038,5.2185859,Blue-breasted Quail,Synoicus chinensis,Phasianidae,Galliformes,1,0,TRUE,DateDeath,25-06-2020
+,,3200630013,Captive,Utrecht,3584,52.0907006,5.1215634,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateDeath,29-06-2020
+,,3200702001,Captive,Ederveen,6744,52.0613055,5.5775905,Parrot,Psittaciformes (order),Unknown,Psittaciformes,1,0,TRUE,DateDeath,01-07-2020
+,,3200713041,Captive,Almere,1323,52.3705038,5.2185859,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateDeath,12-07-2020
+,,3200713047,Captive,Purmerend,1442,52.5024789,4.9614827,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,12-07-2020
+,,3200713048,Captive,Purmerend,1442,52.5024789,4.9614827,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,12-07-2020
+,,3200716002,Captive,Utrecht,3584,52.0907006,5.1215634,Crested Partridge,Rollulus rouloul,Phasianidae,Galliformes,1,0,TRUE,DateDeath,15-07-2020
+,,3200724032,Captive,Emmen,7887,52.75286615,6.952513466,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,22-07-2020
+,,3200730021,Captive,Den Haag,2591,52.0799838,4.3113461,Barred Parakeet,Bolborhynchus lineola,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,27-07-2020
+,,NoID_054,Captive,Unknown,,NA,NA,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,5,1,TRUE,DateDeath,24-08-2020
+,,3200903006,Captive,Erica,7887,52.7158137,6.926866,Senegal Parrot,Poicephalus senegalus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,02-09-2020
+,,3200903008,Captive,Erica,7887,52.7158137,6.926866,Rose-crowned Parakeet,Pyrrhura rhodocephala,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,02-09-2020
+,,3200928007,Captive,Utrecht,,52.0907006,5.1215634,Harris's Hawk,Parabuteo unicinctus,Accipitridae,Accipitriformes,1,0,TRUE,DateSampling,28-09-2020
+,,3201009002,Captive,Marum,9363,53.1442439,6.2647308,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateDeath,08-10-2020
+,,3201022006,Captive,Delft,2622,52.0114017,4.35839,Caique,Pionites (genus),Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,22-10-2020
+,,3201022004,Captive,Bennekom,6721,52.0015947,5.6756511,Toco Toucan,Ramphastos toco,Ramphastidae,Piciformes,1,0,TRUE,DateSampling,22-10-2020
+,,3201030032,Captive,Rozenburg,3181,51.9056445,4.2415465,Pyrrhura,Pyrrhura (genus),Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,29-10-2020
+,,3201109003,Captive,Oldebroek,8096,52.45673635,5.95186437,Blue-and-yellow Macaw,Ara ararauna,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,08-11-2020
+,,3201111045,Captive,Den Haag,2562,52.0799838,4.3113461,Red-crowned Parakeet,Cyanoramphus novaezelandiae,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,10-11-2020
+,,3201116022,Captive,Hem,1607,52.6607793,5.1835446,Crowned Crane,Balearica (genus),Gruidae,Gruiformes,1,0,TRUE,DateSampling,16-11-2020
+,,3201120024,Captive,Heino,8141,52.4361877,6.2337581,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,18-11-2020
+,,3201125001,Captive,Rietmolen,7165,52.1405464,6.6625951,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateSampling,25-11-2020
+,,3201204008,Captive,Heerlen,6413,50.8775239,5.981506585,Amazon Parrot,Amazona (genus),Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,04-12-2020
+,,3201204007,Captive,Barneveld,3771,52.17150665,5.645439249,Eurasian Collared Dove,Streptopelia decaocto,Columbidae,Columbiformes,1,0,TRUE,DateSampling,04-12-2020
+,,3201210023,Captive,Woerden,3443,52.0859261,4.8832939,Zebra Finch,Taeniopygia (genus),Estrildidae,Passeriformes,1,0,TRUE,DateDeath,09-12-2020
+,,3201214025,Captive,Ter Apel,9561,52.8742433,7.0617746,Tawny Owl,Strix aluco,Strigidae,Strigiformes,1,0,TRUE,DateDeath,11-12-2020
+,,3201228006,Captive,Utrecht,3524,52.0907006,5.1215634,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,27-12-2020
+,,3210105025,Captive,Antwerpen,2100,51.3995457,5.3472854,Eclectus Parrot,Eclectus roratus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,03-01-2021
+,,3210105033,Captive,Gouderak,2831,51.9850806,4.6755692,Hyacinth Macaw,Anodorhynchus hyacinthinus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,03-01-2021
+,,3210107002,Captive,Feanwalden,9269,53.2371902,5.9944367,Gouldian Finch,Chloebia gouldiae,Passeridae,Passeriformes,1,0,TRUE,DateDeath,03-01-2021
+,,3210106004,Captive,Boschoord,8387,52.8989883,6.2273919,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateSampling,06-01-2021
+,,3210225010,Captive,Stavenisse,4696,51.5859884,4.0126377,Red-flanked Lorikeet,Charmosyna placentis,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,21-02-2021
+,,3210304024,Captive,Erica,7887,52.7158137,6.926866,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateDeath,26-02-2021
+,,3210305009,Captive,Wilnis,3648,52.195378,4.899067,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,03-03-2021
+,,3210308016,Captive,Oosterbeek,6862,51.9884489,5.8420484,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,08-03-2021
+,,3210311001,Captive,Ede,6714,52.07168255,5.745510631,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateDeath,09-03-2021
+,,3210316032,Captive,Wilnis,3648,52.195378,4.899067,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,15-03-2021
+,,3210322026,Captive,Hoofddorp,2134,52.305554,4.6926644,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,21-03-2021
+,,3210406049,Captive,Valkenburg,2235,50.8647531,5.8312518,Peach-faced Lovebird,Agapornis roseicollis,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,05-04-2021
+,,3210408014,Captive,Groningen,9734,53.2190652,6.5680077,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,08-04-2021
+,,3210415029,Captive,Amsterdam,1073,52.3730796,4.8924534,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,14-04-2021
+,,3210429002,Captive,Heesch,5384,51.73519,5.5266331,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,29-04-2021
+,,3210503028,Captive,Barneveld,4005,52.17150665,5.645439249,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,03-05-2021
+,,3210512013,Captive,Veendam,9641,53.0807517,6.877303483,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,10-05-2021
+,,3210519002,Captive,Losser,7581,52.300289,6.988104272,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateDeath,19-05-2021
+,,3210601001,Captive,Deurne,5753,51.4283287,5.827965297,Red-and-green Macaw,Ara chloropterus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,31-05-2021
+,,3210607016,Captive,Nieuw-Schoonbeek,7766,52.64836183,6.986667032,Lovebird,Agapornis (genus),Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,03-06-2021
+,,3210607003,Captive,Boskoop,2771,52.0742348,4.6631166,Gouldian Finch,Chloebia gouldiae,Passeridae,Passeriformes,1,0,TRUE,DateDeath,04-06-2021
+,,3210607042,Captive,Bennekom,6721,52.0015947,5.6756511,Andean Cock-of-the-rock,Rupicola peruvianus,Cotingidae,Passeriformes,1,0,TRUE,DateDeath,05-06-2021
+,,3210607043,Captive,Bennekom,6721,52.0015947,5.6756511,Choco Toucan,Ramphastos brevis,Ramphastidae,Piciformes,1,0,TRUE,DateDeath,05-06-2021
+,,3210611021,Captive,Utrecht,3584,52.0907006,5.1215634,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,1,0,TRUE,DateSampling,11-06-2021
+,,3210623005,Captive,Nieuwegein,3435,52.0298704,5.092933378,Lovebird,Agapornis (genus),Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,22-06-2021
+,,3210707001,Captive,Dordrecht,3328,51.7689546,4.686789054,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateDeath,05-07-2021
+,,3210716050,Captive,Rotterdam,,51.9244424,4.47775,Snowy Owl,Bubo scandiacus,Strigidae,Strigiformes,1,0,TRUE,DateSampling,16-07-2021
+,,3210729002,Captive,Meerstad,9613,53.2238932,6.657085196,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,29-07-2021
+,,3210810026,Captive,Erica,7887,52.7158137,6.926866,Blue-naped Parrot,Tanygnathus lucionensis,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,07-08-2021
+,,3210810027,Captive,Erica,7887,52.7158137,6.926866,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,07-08-2021
+,,3210810028,Captive,Sassenheim,2171,52.2246356,4.5199218,Java Sparrow,Padda oryzivora,Passeridae,Passeriformes,1,0,TRUE,DateDeath,09-08-2021
+,,3210818021,Captive,Erica,7887,52.7158137,6.926866,Yellow-crowned Parrot,Amazona ochrocephala,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,15-08-2021
+,,3210818023,Captive,Erica,7887,52.7158137,6.926866,Southern Mealy Amazon,Amazona farinosa,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,17-08-2021
+,,3210820005,Captive,Den Haag,2548,52.0799838,4.3113461,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,20-08-2021
+,,3210831019,Captive,Geesbrug,7917,52.7282834,6.6338274,Common Canary,Serinus canaria,Fringillidae,Passeriformes,5,0,TRUE,DateDeath,24-08-2021
+,,3210827038,Captive,Den Haag,2594,52.0799838,4.3113461,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,27-08-2021
+,,3210903006,Captive,Amsterdam,1106,52.3730796,4.8924534,Ara,Ara (genus),Psittacidae,Psittaciformes,5,0,TRUE,DateDeath,01-09-2021
+,,3210901022,Captive,Enschede,7546,52.22336325,6.870595664,Cardinal,Cardinalidae (fam),Cardinalidae,Passeriformes,2,0,TRUE,DateDeath,01-09-2021
+,,3210906028,Captive,Meteren,4194,51.8637206,5.2834238,Cockatoo,Cacatua (genus),Cacatuidae,Psittaciformes,2,0,TRUE,DateDeath,06-09-2021
+,,3210906029,Captive,Gouda,2804,52.01811935,4.711122134,Muscovy Duck,Cairina moschata,Anatidae,Anseriformes,3,0,TRUE,DateDeath,06-09-2021
+,,3210921004,Captive,Amersfoort,3825,52.1562499,5.3896944,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,21-09-2021
+,,3210921032,Captive,Utrecht,3584,52.0907006,5.1215634,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,5,1,TRUE,DateDeath,21-09-2021
+,,3210922004,Captive,Nieuwveen,2441,52.1966234,4.7562198,Lovebird,Agapornis (genus),Psittaculidae,Psittaciformes,1,0,TRUE,DateSampling,22-09-2021
+,,3210928001,Captive,Krommenie,1562,52.4954557,4.7664946,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,27-09-2021
+,,3211014022,Captive,Kollum,9291,53.279805,6.148734,Blue-and-yellow Macaw,Ara ararauna,Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,14-10-2021
+,,3211021004,Captive,Bennekom,6721,52.0015947,5.6756511,Bird-of-paradise,Paradisaeidae (fam),Paradisaeidae,Passeriformes,1,0,TRUE,DateSampling,21-10-2021
+,,3211022022,Captive,Nederhorst den Berg,1394,52.2638961,5.0452103,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,22-10-2021
+,,3211028002,Captive,Nieuwegein,3431,52.0298704,5.092933378,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,27-10-2021
+,,3211029008,Captive,Erica,7887,52.7158137,6.926866,Bluethroat,Luscinia svecica,Muscicapidae,Passeriformes,1,0,TRUE,DateDeath,28-10-2021
+,,3211118002,Captive,Vleuten,3452,52.1073555,5.0135224,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateDeath,17-11-2021
+,,3211122003,Captive,Den Haag,2586,52.0799838,4.3113461,Humboldt's Penguin,Spheniscus humboldti,Spheniscidae,Sphenisciformes,1,0,TRUE,DateDeath,21-11-2021
+,,3211129028,Captive,Houten,,52.0271433,5.1620637,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,29-11-2021
+,,3211203001,Captive,Erica,7887,52.7158137,6.926866,Rock Pigeon,Columba livia domestica,Columbidae,Columbiformes,5,0,TRUE,DateDeath,01-12-2021
+,,3211207005,Captive,Bennekom,6721,52.0015947,5.6756511,Red Bird Of Paradise,Paradisaea rubra,Paradisaeidae,Passeriformes,1,0,TRUE,DateDeath,03-12-2021
+,,3211207006,Captive,Bennekom,6721,52.0015947,5.6756511,Mountain Toucan,Andigena (genus),Ramphastidae,Piciformes,1,0,TRUE,DateDeath,04-12-2021
+,,3211215004,Captive,Kronenberg,5976,51.4157547,5.9994823,Parrot,Psittaciformes (order),Unknown,Psittaciformes,1,0,TRUE,DateDeath,12-12-2021
+,,3211214005,Captive,Almere,1349,52.3705038,5.2185859,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateSampling,14-12-2021
+,,3211215027,Captive,Lelystad,8242,52.53668095,5.361043525,Pyrrhura,Pyrrhura (genus),Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,15-12-2021
+,,3211230002,Captive,Bennekom,6721,52.0015947,5.6756511,Keel-billed Toucan,Ramphastos sulfuratus,Ramphastidae,Piciformes,1,0,TRUE,DateDeath,25-12-2021
+,,3220103001,Captive,"Vinkel, Dierenbos",5382,51.70510362,5.430589863,Greater Rhea,Rhea americana,Rheidae,Rheiformes,1,0,TRUE,DateDeath,31-12-2021
+,,3220107001,Captive,Heesch,5384,51.73519,5.5266331,Chicken,Gallus gallus domesticus,Phasianidae,Galliformes,1,0,TRUE,DateDeath,03-01-2022
+,,3220106007,Captive,Wilnis,3648,52.195378,4.899067,Common Canary,Serinus canaria,Fringillidae,Passeriformes,1,0,TRUE,DateSampling,06-01-2022
+,,3220217001,Captive,Bennekom,6721,52.0015947,5.6756511,Keel-billed Toucan,Ramphastos sulfuratus,Ramphastidae,Piciformes,1,0,TRUE,DateDeath,13-02-2022
+,,3220215002,Captive,Erica,7887,52.7158137,6.926866,Pin-tailed Whydah,Vidua macroura,Estrildidae,Passeriformes,1,0,TRUE,DateSampling,15-02-2022
+,,3220303022,Captive,Wilnis,3648,52.195378,4.899067,Grey Parrot,Psittacus erithacus,Psittacidae,Psittaciformes,1,0,TRUE,DateSampling,03-03-2022
+,,3220311002,Captive,Utrecht,3522,52.0907006,5.1215634,Barred Parakeet,Bolborhynchus lineola,Psittacidae,Psittaciformes,1,0,TRUE,DateDeath,10-03-2022
+,,3220316001,Captive,Bennekom,6721,52.0015947,5.6756511,Hornbill,Bucerotidae (fam),Bucerotidae,Bucerotiformes,1,0,TRUE,DateDeath,11-03-2022
+,,3220316004,Captive,Made,4921,51.6773008,4.7931811,Blue-faced Parrotfinch,Erythrura trichroa,Estrildidae,Passeriformes,1,0,TRUE,DateDeath,15-03-2022
+,,3220316005,Captive,Made,4921,51.6773008,4.7931811,Blue-faced Parrotfinch,Erythrura trichroa,Estrildidae,Passeriformes,1,0,TRUE,DateDeath,15-03-2022
+,,3220405005,Captive,Bennekom,6721,52.0015947,5.6756511,Red-breasted Toucan,Ramphastos dicolorus,Ramphastidae,Piciformes,1,0,TRUE,DateDeath,02-04-2022
+,,3220405004,Captive,Bennekom,6721,52.0015947,5.6756511,Red-breasted Toucan,Ramphastos dicolorus,Ramphastidae,Piciformes,1,0,TRUE,DateDeath,03-04-2022
+,,3220405006,Captive,Zegge,4735,51.5558698,4.5167245,Budgerigar,Melopsittacus undulatus,Psittaculidae,Psittaciformes,1,0,TRUE,DateSampling,05-04-2022
+,,3220406009,Captive,Hogerwaard,,51.4317231,4.2690766,Cockatiel,Nymphicus hollandicus,Cacatuidae,Psittaciformes,1,0,TRUE,DateSampling,06-04-2022
+,,BEC 16.0 15-011 NL3592,Captive,Schijf,4721,51.4974207,4.5590355,Great Grey Owl,Strix nebulosa,Strigidae,Strigiformes,5,1,TRUE,DateDeath,21-07-2022
+,,4741SN_V,Captive,Unknown,,NA,NA,Eurasian Wigeon,Mareca penelope,Anatidae,Anseriformes,1,1,TRUE,DateDeath,15-08-2022
+,,4741RK_V,Captive,Unknown,,NA,NA,Common Scoter,Melanitta nigra,Anatidae,Anseriformes,1,1,TRUE,DateDeath,17-08-2022
+,,4741SN-M,Captive,Unknown,,NA,NA,Ross' Goose,Anser rossii,Anatidae,Anseriformes,1,0,TRUE,DateDeath,20-08-2022
+,,4741RK_M,Captive,Unknown,,NA,NA,Common Scoter,Melanitta nigra,Anatidae,Anseriformes,1,1,TRUE,DateDeath,20-08-2022

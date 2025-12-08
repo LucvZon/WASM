@@ -1,0 +1,55 @@
+Title:
+Serosurveillance for arboviruses in free-ranging live birds in the Netherlands, 2016-2022
+
+Content Overview:
+Information on date and location of sampling, birds species and serological testing results for Usutu virus (USUV) and (WNV)
+
+Source:
+One Health virology and Influenza groups,Viroscience, Erasmus MC, Rotterdam, the Netherlands
+Vogeltrekstation - Dutch Centre for Avian Migration and Demography, NIOO-KNAW, Wageningen, the Netherlands
+
+For methods, refer to "Emergence and Dynamics of Usutu and West Nile Viruses in the Netherlands, 2016-2022" (Münger et al., 2025).
+
+Time Frame:
+2016-03-18 to 2022-12-29
+
+Area:
+European Netherlands
+
+"ID": unique identification code of the sampling event
+"capture.date": date of capture and sampling of the bird
+"Ringnumber": unique identification number assigned to each bird through the use of leg bands or rings
+"English": birdspecies name in English
+"Dutch": bird species name in Dutch
+"Latin": bird species name in Latin
+"family": taxonomical classification of bird species at family level
+"order": taxonomical classification of bird species at order level
+"Lat": latitude coordinate (in decimal degrees) of the sampling location, using the WGS84 coordinate system
+"Long": longitude coordinate (in decimal degrees) of the sampling location, using the WGS84 coordinate system
+"PMA.USUV.Ab6000":"1" indicates that the sample had a fluorescence signal =>6000 on the protein microarray and qualified for confirmation; "0" indicates the sample had a fluorescence signal <6000
+"PMA.WNV.Ab6000":"1" indicates that the sample had a fluorescence signal =>6000 on the protein microarray and qualified for confirmation; "0" indicates the sample had a fluorescence signal <6000
+"VNT.USUV": titer at which complete blocking of USUV infection was observed, calculated as the average of results from two serial dilutions;"NA" indicates that the sample was not tested
+"VNT.WNV": titer at which complete blocking of WNV infection was observed, calculated as the average of results from two serial dilutions;"NA" indicates that the sample was not tested 
+"FRNT.USUV": titer at which a ≥70% reduction in USUV infected cells counts was observed, calculated as the average of results from two serial dilutions;"NA" indicates that the sample was not tested
+"FRNT.WNV": titer at which a ≥70% reduction in WNV infected cells counts was observed, calculated as the average of results from two serial dilutions;"NA" indicates that the sample was not tested 
+"SeroResult": final serological result based on neautralization assays, classified as "USUV"(USUV-neutralizing antibody positive),"WNV"(WNV-neutralizing antibody positive),
+"FLAVI"(Othoflavivirus-neutralizing antibody positive) or "Negative"
+	"USUV" if:
+	USUV PMA >= 6000 and
+	(i) FRNT >= 160 and 4x titer of WNV
+	(ii) USUV PMA >= 6000, no FRNT result, and VNT result >= 16 and 4x titer of WNV
+	"WNV" if:
+	WNV PMA >= 6000 and
+	(i) FRNT >= 80 and 4x titer of USUV
+	(ii) USUV PMA >= 6000, no FRNT result, but VNT >= 16 and 4x VNT titer of USUV
+	"FLAVI" if:
+	USUV and/or WNV PMA result >= 6000
+	(i) positive FRNT, but no 4x difference between USUV and WNV
+	"Negative" if: 
+	FRNT negative for USUV (<160) AND WNV (<80)
+
+Data Format:
+CSV
+
+Last updated: 
+2025-01-08 

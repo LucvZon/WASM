@@ -1,0 +1,43 @@
+Title:
+Surveillance for arboviruses in free ranging live birds in the Netherlands, 2016-2022
+
+Content Overview:
+Information on date and location of sampling, birds species and molecular and serological testing results for Usutu virus (USUV) and (WNV)
+
+Source:
+Erasmus MC, Viroscience, Influenza and One Health virology groups
+Vogeltrekstation - Dutch Centre for Avian Migration and Demography, Netherlands Institute of Ecology (NIOO-KNAW)
+
+For collection methods, refer to paper.  
+
+Time Frame:
+2016-03-18 to 2022-12-29
+
+Area:
+European Netherlands
+
+Fields:
+"UniqueID/Isolate": unique identification code of the sampling event; this ID has been used as an Isolate name where samples were sequenced
+"capture.date": date of capture and sampling of the bird
+"Ringnumber": unique identification number assigned to each bird through the use of leg bands or rings
+"English": birdspecies name in English
+"Dutch": bird species name in Dutch
+"Latin": bird species name in Latin
+"family": taxonomical classification of bird species at family level
+"order": taxonomical classification of bird species at order level
+"Lat": latitude coordinate (in decimal degrees) of the sampling location, using the WGS84 coordinate system
+"Long": longitude coordinate (in decimal degrees) of the sampling location, using the WGS84 coordinate system
+"BirdUSUV": "1" indicates the bird tested positive for USUV by RT-PCR and "0" that it tested negative
+"BirdWNV": "1" indicates the bird tested positive for WNV by RT-PCR and "0" that it tested negative
+"class": differentiation, based on bird order in "waterbirds" for waterbirds and others "landbirds"                     
+
+
+Data Format:
+CSV
+
+
+Accessibility:
+as of 2024-02-29, internal to Erasmus MC, Viroscience, One Health virology group. Consult Reina Sikkema in case of external sharing request.
+
+Last updated: 
+2024-04-17 
