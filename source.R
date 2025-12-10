@@ -7,6 +7,7 @@ library(purrr)
 library(plotly)
 library(lubridate)
 library(tidyr)
+library(munsell)
 
 # Import data -------------------------------------------------------------
 # Live, free-range birds
@@ -15,30 +16,30 @@ df_fa <- read.csv(
   header = TRUE, sep = ",", fill = TRUE, stringsAsFactors = FALSE
 ) %>%
   dplyr::mutate(capture.date = as.Date(capture.date))
-
-# Dead, free-range birds
-df_fd <- read.csv(
-  file = "data/S-BSST1523_SV_FD/Surveillance_Arbovirus_DeadFreeRangingBirds_Netherlands_2016-2022.csv",
-  header = TRUE, sep = ",", fill = TRUE, stringsAsFactors = FALSE
-) %>%
-  dplyr::mutate(DeathOrSampleDate = as.Date(DeathOrSampleDate, "%d-%m-%Y"))
-
-# Dead, captive birds
-df_cd <- read.csv(
-  file = "data/S-BSST1505_SV_DC/Surveillance_Arbovirus_DeadCaptiveBirds_Netherlands_2016-2022.csv",
-  header = TRUE, sep = ",", fill = TRUE, stringsAsFactors = FALSE
-) %>%
-  dplyr::mutate(DeathOrSampleDate = as.Date(DeathOrSampleDate, "%d-%m-%Y"))
+# 
+# # Dead, free-range birds
+# df_fd <- read.csv(
+#   file = "data/S-BSST1523_SV_FD/Surveillance_Arbovirus_DeadFreeRangingBirds_Netherlands_2016-2022.csv",
+#   header = TRUE, sep = ",", fill = TRUE, stringsAsFactors = FALSE
+# ) %>%
+#   dplyr::mutate(DeathOrSampleDate = as.Date(DeathOrSampleDate, "%d-%m-%Y"))
+# 
+# # Dead, captive birds
+# df_cd <- read.csv(
+#   file = "data/S-BSST1505_SV_DC/Surveillance_Arbovirus_DeadCaptiveBirds_Netherlands_2016-2022.csv",
+#   header = TRUE, sep = ",", fill = TRUE, stringsAsFactors = FALSE
+# ) %>%
+#   dplyr::mutate(DeathOrSampleDate = as.Date(DeathOrSampleDate, "%d-%m-%Y"))
 
 # Combine dead free range and captive birds
-fd_subset <- df_fd %>%
-  select(DeathOrSampleDate, Long, Lat, BirdUSUV) %>%
-  mutate(Wild_Cap = "Wild")
-
-cd_subset <- df_cd %>%
-  select(DeathOrSampleDate, Long, Lat, Wild_Cap, BirdUSUV)
-
-all_dead_birds <- rbind(fd_subset, cd_subset)
+# fd_subset <- df_fd %>%
+#   select(DeathOrSampleDate, Long, Lat, BirdUSUV) %>%
+#   mutate(Wild_Cap = "Wild")
+# 
+# cd_subset <- df_cd %>%
+#   select(DeathOrSampleDate, Long, Lat, Wild_Cap, BirdUSUV)
+# 
+# all_dead_birds <- rbind(fd_subset, cd_subset)
 
 # Map of the Netherlands --------------------------------------------------
 nl_map <- sf::st_read(file.path("data/map/gadm41_NLD_1.shp")) %>%
@@ -65,20 +66,20 @@ base_map <- ggplot() +
 cluster_and_summarize <- function(data, eps = 0.15, minPts = 1) {
   # Ensure there's data to process
   if (nrow(data) == 0) return(NULL)
-  
+
   # Discard rows with missing coordinates
   data <- data %>%
     dplyr::filter(!is.na(Long) | !is.na(Lat))
-  
+
   # Select coordinate columns
   coords <- data %>% select(Long, Lat)
-  
+
   # Perform dbscan clustering
   clusters <- dbscan(coords, eps = eps, minPts = minPts)
-  
+
   # Add cluster assignments to the data
   data$cluster_id <- clusters$cluster
-  
+
   # Summarize each cluster
   summary_df <- data %>%
     group_by(cluster_id) %>%
@@ -90,7 +91,7 @@ cluster_and_summarize <- function(data, eps = 0.15, minPts = 1) {
       cluster_size = n(),
       .groups = 'drop'
     )
-  
+
   return(summary_df)
 }
 
@@ -108,7 +109,7 @@ cluster_by_group <- function(data, group_col, eps) {
 live_free_range <- cluster_and_summarize(df_fa, eps = 0.04)
 
 # All dead bird data
-dead_birds_clustered <- cluster_and_summarize(all_dead_birds, eps = 0.04)
+# dead_birds_clustered <- cluster_and_summarize(all_dead_birds, eps = 0.04)
 
 # Free-ranging live bird positives
 fa_pos_clustered_df <- df_fa %>%
@@ -120,12 +121,12 @@ fa_pos_clustered_df <- df_fa %>%
   cluster_by_group(eps = 0.04, group_col = status)
 
 # Dead bird positives
-dead_pos_clustered <- all_dead_birds %>%
-  dplyr::filter(BirdUSUV == 1) %>%
-  mutate(status = case_when(
-    BirdUSUV == 1  ~ "USUV"
-  )) %>%
-  cluster_by_group(eps = 0.04, group_col = status)
+# dead_pos_clustered <- all_dead_birds %>%
+#   dplyr::filter(BirdUSUV == 1) %>%
+#   mutate(status = case_when(
+#     BirdUSUV == 1  ~ "USUV"
+#   )) %>%
+#   cluster_by_group(eps = 0.04, group_col = status)
 
 # Live birds: Monthly total sampling
 monthly_samples <- df_fa %>%
@@ -133,12 +134,12 @@ monthly_samples <- df_fa %>%
   count(month_start, class, name = "sample_count") %>%
   mutate(Month = strftime(month_start, "%Y-%m"))
 
-# Live birds: Monthly positive sampling
+# # Live birds: Monthly positive sampling
 monthly_positives <- df_fa %>%
   filter(BirdUSUV == 1 | BirdWNV == 1) %>%
   pivot_longer(
-    cols = c(BirdUSUV, BirdWNV), 
-    names_to = "Virus", 
+    cols = c(BirdUSUV, BirdWNV),
+    names_to = "Virus",
     values_to = "Status"
   ) %>%
   filter(Status == 1) %>%
@@ -147,23 +148,23 @@ monthly_positives <- df_fa %>%
   count(month_start, Virus, name = "sample_count") %>%
   mutate(Month = strftime(month_start, "%Y-%m"))
 
-# Dead birds: Monthly total sampling
-monthly_dead <- all_dead_birds %>%
-  mutate(month_start = floor_date(DeathOrSampleDate, "month")) %>%
-  count(month_start, Wild_Cap, name = "sample_count") %>%
-  mutate(Month = strftime(month_start, "%Y-%m"))
+# # Dead birds: Monthly total sampling
+# monthly_dead <- all_dead_birds %>%
+#   mutate(month_start = floor_date(DeathOrSampleDate, "month")) %>%
+#   count(month_start, Wild_Cap, name = "sample_count") %>%
+#   mutate(Month = strftime(month_start, "%Y-%m"))
 
 # Dead birds: Monthly positive sampling
-monthly_dead_positives <- all_dead_birds %>%
-  filter(BirdUSUV == 1) %>%
-  pivot_longer(
-    cols = BirdUSUV, 
-    names_to = "Virus", 
-    values_to = "Status"
-  ) %>%
-  mutate(
-    Virus = sub("Bird", "", Virus),
-    month_start = floor_date(DeathOrSampleDate, "month")
-  ) %>%
-  count(month_start, Virus, name = "sample_count") %>%
-  mutate(Month = strftime(month_start, "%Y-%m"))
+# monthly_dead_positives <- all_dead_birds %>%
+#   filter(BirdUSUV == 1) %>%
+#   pivot_longer(
+#     cols = BirdUSUV, 
+#     names_to = "Virus", 
+#     values_to = "Status"
+#   ) %>%
+#   mutate(
+#     Virus = sub("Bird", "", Virus),
+#     month_start = floor_date(DeathOrSampleDate, "month")
+#   ) %>%
+#   count(month_start, Virus, name = "sample_count") %>%
+#   mutate(Month = strftime(month_start, "%Y-%m"))
