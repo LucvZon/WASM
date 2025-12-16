@@ -4,19 +4,26 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Shiny App</title>
-    <!-- STEP 1: I DELETED THE LINE loading 'load-shinylive-sw.js' HERE -->
     
-    <!-- STEP 2: I ADDED THIS BLOCK to kill old caches -->
+    <!-- 1. Force Browser to check for updates to index.html -->
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <!-- 2. THE CLEANER: Unregister existing service workers to clear old cache -->
     <script type="text/javascript">
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.getRegistrations().then(function(registrations) {
           for(let registration of registrations) {
-            // Unregister any existing service workers from previous visits
             registration.unregister();
           } 
         });
       }
     </script>
+
+    <!-- 3. THE ENGINE: You MUST keep this line for the app to run -->
+    <script src="./shinylive/load-shinylive-sw.js" type="module"></script>
+
     <script type="module">
       import { runExportedApp } from "./shinylive/shinylive.js";
       runExportedApp({
@@ -30,8 +37,6 @@
     
   </head>
   <body>
-    
     <div style="height: 100vh; width: 100vw" id="root"></div>
-    
   </body>
 </html>

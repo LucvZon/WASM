@@ -62,7 +62,7 @@ server <- function(input, output) {
             x = Long_rep, y = Lat_rep, size = cluster_size,
             text = paste("Number of Birds:", cluster_size)
           ),
-          fill = "red", alpha = 0.6, shape = 21, color = "transparent", stroke = 0.4
+          fill = "purple", alpha = 0.6, shape = 21, color = "transparent", stroke = 0.4
         ) +
         geom_text(
           data = live_free_range,
